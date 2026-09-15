@@ -1,0 +1,178 @@
+{
+  "title": "Tareitas Privacy Policy",
+  "lastUpdatedLabel": "Last updated",
+  "lastUpdated": "September 15, 2026",
+  "intro": [
+    "Tareitas (“Tareitas”, “we”, “us”, or “our”) is a family application designed to help parents and children manage daily tasks, routines, stars, and rewards.",
+    "This Privacy Policy explains what information Tareitas may process, how it is stored and used, and the choices available to users."
+  ],
+  "sections": [
+    {
+      "title": "1. Information We Process",
+      "paragraphs": [
+        "Depending on the features used and the storage mode selected, Tareitas may process the following information:"
+      ],
+      "list": [
+        "Administrator name and email address",
+        "Parent names",
+        "Children's names",
+        "Tasks and routines",
+        "Stars and rewards",
+        "Images uploaded by users for tasks or rewards",
+        "User avatars",
+        "Analytics and crash-reporting information",
+        "Information related to advertising when the user has not subscribed to an ad-free version",
+        "Users may choose whether their family data is stored only on their device or synchronized across multiple devices."
+      ]
+    },
+    {
+      "title": "2. Storage Modes",
+      "paragraphs": [
+        "Multidevices Mode",
+        "When a user selects Multidevices, family data is stored on our server to allow the data to be synchronized between the user's devices.",
+        "Server-stored data may include:"
+      ],
+      "list": [
+        "Administrator name and email address",
+        "Parent and children's names",
+        "Tasks and routines",
+        "Stars and rewards",
+        "Task and reward images",
+        "Avatars"
+      ]
+    },
+    {
+      "title": "",
+      "paragraphs": [
+        "This information is used to provide the application's synchronization and family-management features.",
+        "Only This Device Mode",
+        "When a user selects Only this device, the application's family data is stored locally on the user's device and is not uploaded to our server for synchronization.",
+        "However, analytics, crash-reporting, and advertising services may still process information as described in this Privacy Policy."
+      ]
+    },
+    {
+      "title": "3. Images and User-Created Content",
+      "paragraphs": [
+        "Tareitas allows users to upload images to customize tasks and rewards.",
+        "Users are responsible for ensuring that they have the appropriate rights to upload any images they choose to use.",
+        "In Multidevices mode, uploaded task and reward images may be stored on our server so they can be synchronized across the user's devices.",
+        "In Only this device mode, these images are stored locally on the user's device and are not uploaded to our server for synchronization.",
+        "Users should avoid uploading sensitive or unnecessary personal information in images."
+      ]
+    },
+    {
+      "title": "4. How We Use Information",
+      "paragraphs": ["Information processed by Tareitas may be used to:"],
+      "list": [
+        "Provide and operate the application's features",
+        "Synchronize family data between devices when Multidevices mode is selected",
+        "Display tasks, routines, stars, and rewards",
+        "Store and display user-uploaded images and avatars",
+        "Maintain and improve the application",
+        "Identify and fix technical problems",
+        "Diagnose crashes and other technical issues",
+        "Provide advertising to users who have not subscribed to the ad-free version",
+        "Respond to support requests"
+      ]
+    },
+    {
+      "title": "5. Analytics and Crash Reporting",
+      "paragraphs": [
+        "Tareitas may use analytics and crash-reporting technologies to understand application usage, identify technical problems, diagnose crashes, and improve the application's performance and reliability.",
+        "These services may collect technical information about the application and device, such as information about crashes, performance, and application usage."
+      ]
+    },
+    {
+      "title": "6. Advertising",
+      "paragraphs": [
+        "If a user has not subscribed to an ad-free version of Tareitas, the application may display advertisements.",
+        "Advertising providers may collect or process information necessary to provide, personalize, measure, and improve advertising, subject to their applicable privacy policies and settings."
+      ]
+    },
+    {
+      "title": "7. Children's Information",
+      "paragraphs": [
+        "Tareitas is designed for families and may allow parents or guardians to enter information about children, such as:"
+      ],
+      "list": [
+        "Children's names",
+        "Tasks and routines",
+        "Stars and rewards",
+        "Avatars",
+        "Images associated with tasks or rewards"
+      ]
+    },
+    {
+      "title": "",
+      "paragraphs": [
+        "Parents or guardians are responsible for the information they enter into the application.",
+        "Tareitas does not require children to provide an email address or other direct contact information to use the application's family features.",
+        "Users should not upload unnecessary sensitive personal information about children."
+      ]
+    },
+    {
+      "title": "8. Sharing of Information",
+      "paragraphs": [
+        "We may use third-party service providers to provide services necessary for the operation of Tareitas, including services related to:"
+      ],
+      "list": [
+        "Server hosting and data storage",
+        "Analytics",
+        "Crash reporting",
+        "Advertising"
+      ]
+    },
+    {
+      "title": "",
+      "paragraphs": [
+        "These providers may process information as necessary to provide their services.",
+        "We do not sell users' personal information."
+      ]
+    },
+    {
+      "title": "9. Data Security",
+      "paragraphs": [
+        "We take reasonable measures designed to protect information processed by Tareitas against unauthorized access, alteration, disclosure, or destruction.",
+        "However, no method of electronic storage or transmission can be guaranteed to be completely secure."
+      ]
+    },
+    {
+      "title": "10. Data Retention and Deletion",
+      "paragraphs": [
+        "For information stored on our servers, we retain the information for as long as necessary to provide the applicable Tareitas services or as otherwise required for legitimate operational or legal purposes.",
+        "Users may request deletion of their server-stored personal information by contacting us using the email address below.",
+        "For information stored only on the user's device, the user can remove the information using the applicable functionality provided by the application or by removing the application's stored data from the device."
+      ]
+    },
+    {
+      "title": "11. Your Choices",
+      "paragraphs": [
+        "Users can choose between:",
+        "Users may also choose whether to subscribe to an available ad-free version, if offered."
+      ],
+      "list": [
+        "Multidevices — family data is stored on our server to enable synchronization between devices.",
+        "Only this device — family data is stored locally on the device rather than synchronized through our server."
+      ]
+    },
+    {
+      "title": "12. Changes to This Privacy Policy",
+      "paragraphs": [
+        "We may update this Privacy Policy from time to time.",
+        "When we make changes, we will update the Last updated date at the top of this Privacy Policy. The updated Privacy Policy will be made available at the same public URL."
+      ]
+    },
+    {
+      "title": "13. Contact Us",
+      "paragraphs": [
+        "If you have questions about this Privacy Policy, Tareitas, or the handling of personal information, please contact us at:"
+      ]
+    }
+  ],
+  "contact": {
+    "emailLabel": "Email",
+    "email": "tarecitas@gmai.com",
+    "developerLabel": "Developer/Company",
+    "developer": "LogicGame: Butenko Yurii"
+  }
+}

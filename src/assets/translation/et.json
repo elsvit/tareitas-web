@@ -1,0 +1,178 @@
+{
+  "title": "Tareitase privaatsuspoliitika",
+  "lastUpdatedLabel": "Viimati uuendatud",
+  "lastUpdated": "15. september 2026",
+  "intro": [
+    "Tareitas („Tareitas“, „meie“, „meid“ või „meie“) on pererakendus, mis aitab vanematel ja lastel hallata igapäevaseid ülesandeid, rutiine, tähti ja auhindu.",
+    "Käesolev privaatsuspoliitika selgitab, millist teavet Tareitas võib töödelda, kuidas seda säilitatakse ja kasutatakse ning millised valikud on kasutajatel."
+  ],
+  "sections": [
+    {
+      "title": "1. Teave, mida töötleme",
+      "paragraphs": [
+        "Olenevalt kasutatavatest funktsioonidest ja valitud salvestusrežiimist võib Tareitas töödelda järgmist teavet:"
+      ],
+      "list": [
+        "Administraatori nimi ja e-posti aadress",
+        "Vanemate nimed",
+        "Laste nimed",
+        "Ülesanded ja rutiinid",
+        "Tähed ja auhinnad",
+        "Kasutajate ülesannete või auhindade jaoks üles laaditud pildid",
+        "Kasutajaavatarid",
+        "Analüütika- ja krahhiraportite teave",
+        "Reklaamiga seotud teave, kui kasutaja ei ole tellinud reklaamivaba versiooni",
+        "Kasutajad saavad valida, kas nende pereandmeid hoitakse ainult nende seadmes või sünkroonitakse mitme seadme vahel."
+      ]
+    },
+    {
+      "title": "2. Salvestusrežiimid",
+      "paragraphs": [
+        "Multidevices-režiim",
+        "Kui kasutaja valib Multidevices, salvestatakse pereandmed meie serverisse, et neid saaks kasutaja seadmete vahel sünkroonida.",
+        "Serverisse salvestatud andmed võivad hõlmata:"
+      ],
+      "list": [
+        "Administraatori nimi ja e-posti aadress",
+        "Vanemate ja laste nimed",
+        "Ülesanded ja rutiinid",
+        "Tähed ja auhinnad",
+        "Ülesannete ja auhindade pildid",
+        "Avatarid"
+      ]
+    },
+    {
+      "title": "",
+      "paragraphs": [
+        "Seda teavet kasutatakse rakenduse sünkroonimis- ja perehaldusfunktsioonide pakkumiseks.",
+        "Režiim Ainult see seade",
+        "Kui kasutaja valib Ainult see seade, salvestatakse rakenduse pereandmed kohalikult kasutaja seadmesse ega laadita sünkroonimiseks meie serverisse.",
+        "Analüütika-, krahhiraportite ja reklaamiteenused võivad siiski töödelda teavet, nagu on kirjeldatud käesolevas privaatsuspoliitikas."
+      ]
+    },
+    {
+      "title": "3. Pildid ja kasutajate loodud sisu",
+      "paragraphs": [
+        "Tareitas võimaldab kasutajatel üles laadida pilte ülesannete ja auhindade kohandamiseks.",
+        "Kasutajad vastutavad selle eest, et neil oleksid asjakohased õigused üles laadida pilte, mida nad soovivad kasutada.",
+        "Multidevices-režiimis võidakse üles laaditud ülesannete ja auhindade pildid salvestada meie serverisse, et neid saaks kasutaja seadmete vahel sünkroonida.",
+        "Režiimis Ainult see seade salvestatakse need pildid kohalikult kasutaja seadmesse ega laadita sünkroonimiseks meie serverisse.",
+        "Kasutajad peaksid vältima tundliku või tarbetu isikuandmete üleslaadimist piltidesse."
+      ]
+    },
+    {
+      "title": "4. Kuidas me teavet kasutame",
+      "paragraphs": ["Tareitase töödeldavat teavet võidakse kasutada:"],
+      "list": [
+        "Rakenduse funktsioonide pakkumiseks ja käitamiseks",
+        "Pereandmete sünkroonimiseks seadmete vahel, kui on valitud Multidevices-režiim",
+        "Ülesannete, rutiinide, tähtede ja auhindade kuvamiseks",
+        "Kasutajate üles laaditud piltide ja avataride salvestamiseks ja kuvamiseks",
+        "Rakenduse hooldamiseks ja täiustamiseks",
+        "Tehniliste probleemide tuvastamiseks ja parandamiseks",
+        "Krahhide ja muude tehniliste probleemide diagnoosimiseks",
+        "Reklaami kuvamiseks kasutajatele, kes ei ole tellinud reklaamivaba versiooni",
+        "Tugipäringutele vastamiseks"
+      ]
+    },
+    {
+      "title": "5. Analüütika ja krahhiraportid",
+      "paragraphs": [
+        "Tareitas võib kasutada analüütika- ja krahhiraportitehnoloogiaid, et mõista rakenduse kasutust, tuvastada tehnilisi probleeme, diagnoosida krahhe ning parandada rakenduse jõudlust ja töökindlust.",
+        "Need teenused võivad koguda tehnilist teavet rakenduse ja seadme kohta, näiteks teavet krahhide, jõudluse ja rakenduse kasutuse kohta."
+      ]
+    },
+    {
+      "title": "6. Reklaam",
+      "paragraphs": [
+        "Kui kasutaja ei ole tellinud Tareitase reklaamivaba versiooni, võib rakendus kuvada reklaame.",
+        "Reklaamipakkujad võivad koguda või töödelda teavet, mis on vajalik reklaami pakkumiseks, isikupärastamiseks, mõõtmiseks ja täiustamiseks, vastavalt nende kohaldatavatele privaatsuspoliitikatele ja seadetele."
+      ]
+    },
+    {
+      "title": "7. Laste teave",
+      "paragraphs": [
+        "Tareitas on mõeldud peredele ja võib lubada vanematel või eestkostjatel sisestada teavet laste kohta, näiteks:"
+      ],
+      "list": [
+        "Laste nimed",
+        "Ülesanded ja rutiinid",
+        "Tähed ja auhinnad",
+        "Avatarid",
+        "Ülesannete või auhindadega seotud pildid"
+      ]
+    },
+    {
+      "title": "",
+      "paragraphs": [
+        "Vanemad või eestkostjad vastutavad teabe eest, mille nad rakendusse sisestavad.",
+        "Tareitas ei nõua lastelt e-posti aadressi ega muude otseste kontaktandmete esitamist rakenduse perefunktsioonide kasutamiseks.",
+        "Kasutajad ei tohiks üles laadida tarbetuid tundlikke isikuandmeid laste kohta."
+      ]
+    },
+    {
+      "title": "8. Teabe jagamine",
+      "paragraphs": [
+        "Võime kasutada kolmandatest isikutest teenusepakkujaid Tareitase toimimiseks vajalike teenuste osutamiseks, sealhulgas teenuseid, mis on seotud:"
+      ],
+      "list": [
+        "Serverite majutuse ja andmesalvestusega",
+        "Analüütikaga",
+        "Krahhiraportitega",
+        "Reklaamiga"
+      ]
+    },
+    {
+      "title": "",
+      "paragraphs": [
+        "Need teenusepakkujad võivad töödelda teavet ulatuses, mis on vajalik nende teenuste osutamiseks.",
+        "Me ei müü kasutajate isikuandmeid."
+      ]
+    },
+    {
+      "title": "9. Andmeturve",
+      "paragraphs": [
+        "Võtame mõistlikke meetmeid, et kaitsta Tareitase töödeldavat teavet volitamata juurdepääsu, muutmise, avalikustamise või hävitamise eest.",
+        "Ühtegi elektroonilise salvestamise või edastamise meetodit ei saa siiski tagada täiesti turvalisena."
+      ]
+    },
+    {
+      "title": "10. Andmete säilitamine ja kustutamine",
+      "paragraphs": [
+        "Meie serveritesse salvestatud teavet säilitame nii kaua, kui see on vajalik asjakohaste Tareitase teenuste osutamiseks või nagu seda nõuavad õiguspärased tegevus- või õiguslikud eesmärgid.",
+        "Kasutajad võivad taotleda oma serverisse salvestatud isikuandmete kustutamist, võttes meiega ühendust allpool toodud e-posti aadressil.",
+        "Ainult kasutaja seadmes salvestatud teabe saab kasutaja eemaldada rakenduse vastava funktsiooni abil või eemaldades rakenduse salvestatud andmed seadmest."
+      ]
+    },
+    {
+      "title": "11. Teie valikud",
+      "paragraphs": [
+        "Kasutajad saavad valida järgmise vahel:",
+        "Kasutajad võivad ka valida, kas tellida saadaolev reklaamivaba versioon, kui see on pakutud."
+      ],
+      "list": [
+        "Multidevices — pereandmed salvestatakse meie serverisse, et võimaldada sünkroonimist seadmete vahel.",
+        "Ainult see seade — pereandmed salvestatakse kohalikult seadmesse, mitte ei sünkroonita meie serveri kaudu."
+      ]
+    },
+    {
+      "title": "12. Muudatused käesolevas privaatsuspoliitikas",
+      "paragraphs": [
+        "Võime käesolevat privaatsuspoliitikat aeg-ajalt uuendada.",
+        "Kui teeme muudatusi, uuendame kuupäeva Viimati uuendatud käesoleva privaatsuspoliitika ülaosas. Uuendatud privaatsuspoliitika on saadaval samal avalikul URL-il."
+      ]
+    },
+    {
+      "title": "13. Võtke meiega ühendust",
+      "paragraphs": [
+        "Kui teil on küsimusi käesoleva privaatsuspoliitika, Tareitase või isikuandmete töötlemise kohta, võtke meiega ühendust aadressil:"
+      ]
+    }
+  ],
+  "contact": {
+    "emailLabel": "E-post",
+    "email": "tarecitas@gmai.com",
+    "developerLabel": "Arendaja/Ettevõte",
+    "developer": "LogicGame: Butenko Yurii"
+  }
+}

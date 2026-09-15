@@ -1,0 +1,178 @@
+{
+  "title": "Tareitasin tietosuojakäytäntö",
+  "lastUpdatedLabel": "Viimeksi päivitetty",
+  "lastUpdated": "15. syyskuuta 2026",
+  "intro": [
+    "Tareitas (“Tareitas”, “me”, “meidät” tai “meidän”) on perhesovellus, joka auttaa vanhempia ja lapsia hallitsemaan päivittäisiä tehtäviä, rutiineja, tähtiä ja palkintoja.",
+    "Tämä tietosuojakäytäntö selittää, mitä tietoja Tareitas voi käsitellä, miten niitä säilytetään ja käytetään sekä millaisia valintoja käyttäjillä on."
+  ],
+  "sections": [
+    {
+      "title": "1. Käsittelemämme tiedot",
+      "paragraphs": [
+        "Käytettyjen ominaisuuksien ja valitun tallennustilan mukaan Tareitas voi käsitellä seuraavia tietoja:"
+      ],
+      "list": [
+        "Ylläpitäjän nimi ja sähköpostiosoite",
+        "Vanhempien nimet",
+        "Lasten nimet",
+        "Tehtävät ja rutiinit",
+        "Tähdet ja palkinnot",
+        "Käyttäjien tehtäviin tai palkintoihin lataamat kuvat",
+        "Käyttäjäavatarit",
+        "Analytiikka- ja kaatumisraportointitiedot",
+        "Mainontaan liittyvät tiedot, kun käyttäjä ei ole tilannut mainoksetonta versiota",
+        "Käyttäjät voivat valita, säilytetäänkö perhetiedot vain heidän laitteellaan vai synkronoidaanko ne useiden laitteiden välillä."
+      ]
+    },
+    {
+      "title": "2. Tallennustilat",
+      "paragraphs": [
+        "Multidevices-tila",
+        "Kun käyttäjä valitsee Multidevices-tilan, perhetiedot tallennetaan palvelimellemme, jotta tiedot voidaan synkronoida käyttäjän laitteiden välillä.",
+        "Palvelimelle tallennetut tiedot voivat sisältää:"
+      ],
+      "list": [
+        "Ylläpitäjän nimi ja sähköpostiosoite",
+        "Vanhempien ja lasten nimet",
+        "Tehtävät ja rutiinit",
+        "Tähdet ja palkinnot",
+        "Tehtävien ja palkintojen kuvat",
+        "Avatarit"
+      ]
+    },
+    {
+      "title": "",
+      "paragraphs": [
+        "Näitä tietoja käytetään sovelluksen synkronointi- ja perheenhallintaominaisuuksien tarjoamiseen.",
+        "Vain tämä laite -tila",
+        "Kun käyttäjä valitsee Vain tämä laite -tilan, sovelluksen perhetiedot tallennetaan paikallisesti käyttäjän laitteelle eikä niitä ladata palvelimellemme synkronointia varten.",
+        "Analytiikka-, kaatumisraportointi- ja mainontapalvelut voivat silti käsitellä tietoja tässä tietosuojakäytännössä kuvatulla tavalla."
+      ]
+    },
+    {
+      "title": "3. Kuvat ja käyttäjien luoma sisältö",
+      "paragraphs": [
+        "Tareitas antaa käyttäjien ladata kuvia tehtävien ja palkintojen mukauttamiseen.",
+        "Käyttäjät ovat vastuussa siitä, että heillä on asianmukaiset oikeudet ladata käyttämänsä kuvat.",
+        "Multidevices-tilassa ladatut tehtävä- ja palkintokuvat voidaan tallentaa palvelimellemme, jotta ne voidaan synkronoida käyttäjän laitteiden välillä.",
+        "Vain tämä laite -tilassa nämä kuvat tallennetaan paikallisesti käyttäjän laitteelle eikä niitä ladata palvelimellemme synkronointia varten.",
+        "Käyttäjien tulisi välttää arkaluonteisten tai tarpeettomien henkilötietojen lataamista kuviin."
+      ]
+    },
+    {
+      "title": "4. Miten käytämme tietoja",
+      "paragraphs": ["Tareitasin käsittelemiä tietoja voidaan käyttää:"],
+      "list": [
+        "Sovelluksen ominaisuuksien tarjoamiseen ja toimintaan",
+        "Perhetietojen synkronointiin laitteiden välillä, kun Multidevices-tila on valittu",
+        "Tehtävien, rutiinien, tähtien ja palkintojen näyttämiseen",
+        "Käyttäjien lataamien kuvien ja avatarien tallentamiseen ja näyttämiseen",
+        "Sovelluksen ylläpitoon ja parantamiseen",
+        "Teknisten ongelmien tunnistamiseen ja korjaamiseen",
+        "Kaatumisten ja muiden teknisten ongelmien diagnosointiin",
+        "Mainonnan näyttämiseen käyttäjille, jotka eivät ole tilanneet mainoksetonta versiota",
+        "Tukipyyntöihin vastaamiseen"
+      ]
+    },
+    {
+      "title": "5. Analytiikka ja kaatumisraportointi",
+      "paragraphs": [
+        "Tareitas voi käyttää analytiikka- ja kaatumisraportointiteknologioita ymmärtääkseen sovelluksen käyttöä, tunnistaakseen teknisiä ongelmia, diagnosoidakseen kaatumisia sekä parantaakseen sovelluksen suorituskykyä ja luotettavuutta.",
+        "Nämä palvelut voivat kerätä teknisiä tietoja sovelluksesta ja laitteesta, kuten tietoja kaatumisista, suorituskyvystä ja sovelluksen käytöstä."
+      ]
+    },
+    {
+      "title": "6. Mainonta",
+      "paragraphs": [
+        "Jos käyttäjä ei ole tilannut Tareitasin mainoksetonta versiota, sovellus voi näyttää mainoksia.",
+        "Mainontapalvelujen tarjoajat voivat kerätä tai käsitellä tietoja, jotka ovat tarpeen mainonnan tarjoamiseen, personointiin, mittaamiseen ja parantamiseen, heidän sovellettavien tietosuojakäytäntöjensä ja asetustensa mukaisesti."
+      ]
+    },
+    {
+      "title": "7. Lasten tiedot",
+      "paragraphs": [
+        "Tareitas on suunniteltu perheille ja voi antaa vanhemmille tai huoltajille mahdollisuuden syöttää tietoja lapsista, kuten:"
+      ],
+      "list": [
+        "Lasten nimet",
+        "Tehtävät ja rutiinit",
+        "Tähdet ja palkinnot",
+        "Avatarit",
+        "Tehtäviin tai palkintoihin liittyvät kuvat"
+      ]
+    },
+    {
+      "title": "",
+      "paragraphs": [
+        "Vanhemmat tai huoltajat vastaavat tiedoista, jotka he syöttävät sovellukseen.",
+        "Tareitas ei vaadi lapsilta sähköpostiosoitetta tai muita suoria yhteystietoja sovelluksen perheominaisuuksien käyttämiseksi.",
+        "Käyttäjien ei tulisi ladata tarpeettomia arkaluonteisia henkilötietoja lapsista."
+      ]
+    },
+    {
+      "title": "8. Tietojen jakaminen",
+      "paragraphs": [
+        "Voimme käyttää kolmansien osapuolten palveluntarjoajia Tareitasin toimintaan tarvittavien palvelujen tarjoamiseen, mukaan lukien palvelut, jotka liittyvät:"
+      ],
+      "list": [
+        "Palvelinten ylläpitoon ja tietojen tallennukseen",
+        "Analytiikkaan",
+        "Kaatumisraportointiin",
+        "Mainontaan"
+      ]
+    },
+    {
+      "title": "",
+      "paragraphs": [
+        "Nämä palveluntarjoajat voivat käsitellä tietoja siinä määrin kuin se on tarpeen heidän palvelujensa tarjoamiseksi.",
+        "Emme myy käyttäjien henkilötietoja."
+      ]
+    },
+    {
+      "title": "9. Tietoturva",
+      "paragraphs": [
+        "Ryhdymme kohtuullisiin toimiin suojataksemme Tareitasin käsittelemiä tietoja luvattomalta käytöltä, muuttamiselta, paljastamiselta tai tuhoamiselta.",
+        "Mitään sähköisen tallennuksen tai siirron menetelmää ei kuitenkaan voida taata täysin turvalliseksi."
+      ]
+    },
+    {
+      "title": "10. Tietojen säilytys ja poistaminen",
+      "paragraphs": [
+        "Palvelimillemme tallennettuja tietoja säilytämme niin kauan kuin on tarpeen asianmukaisten Tareitas-palvelujen tarjoamiseksi tai muutoin laillisia toiminnallisia tai oikeudellisia tarkoituksia varten.",
+        "Käyttäjät voivat pyytää palvelimelle tallennettujen henkilötietojensa poistamista ottamalla meihin yhteyttä alla olevaan sähköpostiosoitteeseen.",
+        "Vain käyttäjän laitteelle tallennetut tiedot käyttäjä voi poistaa sovelluksen asianmukaisella toiminnolla tai poistamalla sovelluksen tallennetut tiedot laitteesta."
+      ]
+    },
+    {
+      "title": "11. Valintasi",
+      "paragraphs": [
+        "Käyttäjät voivat valita seuraavista:",
+        "Käyttäjät voivat myös valita, tilaavatko he saatavilla olevan mainoksettoman version, jos se tarjotaan."
+      ],
+      "list": [
+        "Multidevices — perhetiedot tallennetaan palvelimellemme, jotta synkronointi laitteiden välillä on mahdollista.",
+        "Vain tämä laite — perhetiedot tallennetaan paikallisesti laitteelle sen sijaan, että ne synkronoitaisiin palvelimemme kautta."
+      ]
+    },
+    {
+      "title": "12. Muutokset tähän tietosuojakäytäntöön",
+      "paragraphs": [
+        "Voimme päivittää tätä tietosuojakäytäntöä ajoittain.",
+        "Kun teemme muutoksia, päivitämme Viimeksi päivitetty -päivämäärän tämän tietosuojakäytännön yläosassa. Päivitetty tietosuojakäytäntö on saatavilla samassa julkisessa URL-osoitteessa."
+      ]
+    },
+    {
+      "title": "13. Ota yhteyttä",
+      "paragraphs": [
+        "Jos sinulla on kysymyksiä tästä tietosuojakäytännöstä, Tareitasista tai henkilötietojen käsittelystä, ota meihin yhteyttä osoitteeseen:"
+      ]
+    }
+  ],
+  "contact": {
+    "emailLabel": "Sähköposti",
+    "email": "tarecitas@gmai.com",
+    "developerLabel": "Kehittäjä/Yritys",
+    "developer": "LogicGame: Butenko Yurii"
+  }
+}

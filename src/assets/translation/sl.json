@@ -1,0 +1,178 @@
+{
+  "title": "Pravilnik o zasebnosti Tareitas",
+  "lastUpdatedLabel": "Zadnja posodobitev",
+  "lastUpdated": "15. september 2026",
+  "intro": [
+    "Tareitas („Tareitas“, „mi“, „nas“ ali „naš“) je družinska aplikacija, zasnovana tako, da staršem in otrokom pomaga upravljati dnevna opravila, rutine, zvezdice in nagrade.",
+    "Ta Pravilnik o zasebnosti pojasnjuje, katere informacije lahko Tareitas obdeluje, kako se shranjujejo in uporabljajo ter katere izbire so na voljo uporabnikom."
+  ],
+  "sections": [
+    {
+      "title": "1. Informacije, ki jih obdelujemo",
+      "paragraphs": [
+        "Glede na uporabljene funkcije in izbrani način shranjevanja lahko Tareitas obdeluje naslednje informacije:"
+      ],
+      "list": [
+        "Ime in e-poštni naslov skrbnika",
+        "Imena staršev",
+        "Imena otrok",
+        "Opravila in rutine",
+        "Zvezdice in nagrade",
+        "Slike, ki jih uporabniki naložijo za opravila ali nagrade",
+        "Uporabniški avatarji",
+        "Informacije analitike in poročanja o zrušitvah",
+        "Informacije v zvezi z oglaševanjem, kadar uporabnik nima naročnine na različico brez oglasov",
+        "Uporabniki lahko izberejo, ali se družinski podatki shranjujejo samo na njihovi napravi ali se sinhronizirajo med več napravami."
+      ]
+    },
+    {
+      "title": "2. Načini shranjevanja",
+      "paragraphs": [
+        "Način Multidevices",
+        "Ko uporabnik izbere Multidevices, se družinski podatki shranijo na našem strežniku, da se lahko sinhronizirajo med uporabnikovimi napravami.",
+        "Podatki, shranjeni na strežniku, lahko vključujejo:"
+      ],
+      "list": [
+        "Ime in e-poštni naslov skrbnika",
+        "Imena staršev in otrok",
+        "Opravila in rutine",
+        "Zvezdice in nagrade",
+        "Slike opravil in nagrad",
+        "Avatarje"
+      ]
+    },
+    {
+      "title": "",
+      "paragraphs": [
+        "Te informacije se uporabljajo za zagotavljanje funkcij sinhronizacije aplikacije in upravljanja družine.",
+        "Način Samo ta naprava",
+        "Ko uporabnik izbere Samo ta naprava, se družinski podatki aplikacije shranijo lokalno na uporabnikovi napravi in se ne naložijo na naš strežnik za sinhronizacijo.",
+        "Storitve analitike, poročanja o zrušitvah in oglaševanja pa lahko še vedno obdelujejo informacije, kot je opisano v tem Pravilniku o zasebnosti."
+      ]
+    },
+    {
+      "title": "3. Slike in vsebine, ki jih ustvarijo uporabniki",
+      "paragraphs": [
+        "Tareitas uporabnikom omogoča nalaganje slik za prilagajanje opravil in nagrad.",
+        "Uporabniki so odgovorni, da imajo ustrezne pravice za nalaganje slik, ki se odločijo uporabljati.",
+        "V načinu Multidevices so lahko naložene slike opravil in nagrad shranjene na našem strežniku, da jih je mogoče sinhronizirati med uporabnikovimi napravami.",
+        "V načinu Samo ta naprava so te slike shranjene lokalno na uporabnikovi napravi in se ne naložijo na naš strežnik za sinhronizacijo.",
+        "Uporabniki naj se izogibajo nalaganju občutljivih ali nepotrebnih osebnih podatkov na slikah."
+      ]
+    },
+    {
+      "title": "4. Kako uporabljamo informacije",
+      "paragraphs": ["Informacije, ki jih obdeluje Tareitas, se lahko uporabljajo za:"],
+      "list": [
+        "Zagotavljanje in delovanje funkcij aplikacije",
+        "Sinhronizacijo družinskih podatkov med napravami, ko je izbran način Multidevices",
+        "Prikaz opravil, rutin, zvezdic in nagrad",
+        "Shranjevanje in prikaz slik ter avatarjev, ki jih naložijo uporabniki",
+        "Vzdrževanje in izboljševanje aplikacije",
+        "Prepoznavanje in odpravljanje tehničnih težav",
+        "Diagnosticiranje zrušitev in drugih tehničnih težav",
+        "Prikazovanje oglasov uporabnikom, ki nimajo naročnine na različico brez oglasov",
+        "Odgovarjanje na zahteve za podporo"
+      ]
+    },
+    {
+      "title": "5. Analitika in poročanje o zrušitvah",
+      "paragraphs": [
+        "Tareitas lahko uporablja tehnologije analitike in poročanja o zrušitvah, da razume uporabo aplikacije, prepozna tehnične težave, diagnosticira zrušitve ter izboljša zmogljivost in zanesljivost aplikacije.",
+        "Te storitve lahko zbirajo tehnične informacije o aplikaciji in napravi, na primer informacije o zrušitvah, zmogljivosti in uporabi aplikacije."
+      ]
+    },
+    {
+      "title": "6. Oglaševanje",
+      "paragraphs": [
+        "Če uporabnik nima naročnine na različico Tareitas brez oglasov, lahko aplikacija prikazuje oglase.",
+        "Ponudniki oglaševanja lahko zbirajo ali obdelujejo informacije, potrebne za zagotavljanje, prilagajanje, merjenje in izboljševanje oglaševanja, v skladu s svojimi veljavnimi pravilniki o zasebnosti in nastavitvami."
+      ]
+    },
+    {
+      "title": "7. Informacije o otrocih",
+      "paragraphs": [
+        "Tareitas je zasnovan za družine in lahko staršem ali skrbnikom omogoča vnos informacij o otrocih, kot so:"
+      ],
+      "list": [
+        "Imena otrok",
+        "Opravila in rutine",
+        "Zvezdice in nagrade",
+        "Avatarji",
+        "Slike, povezane z opravili ali nagradami"
+      ]
+    },
+    {
+      "title": "",
+      "paragraphs": [
+        "Starši ali skrbniki so odgovorni za informacije, ki jih vnesejo v aplikacijo.",
+        "Tareitas od otrok ne zahteva e-poštnega naslova ali drugih neposrednih kontaktnih podatkov za uporabo družinskih funkcij aplikacije.",
+        "Uporabniki ne smejo nalagati nepotrebnih občutljivih osebnih podatkov o otrocih."
+      ]
+    },
+    {
+      "title": "8. Deljenje informacij",
+      "paragraphs": [
+        "Za zagotavljanje storitev, potrebnih za delovanje Tareitas, lahko uporabljamo zunanje ponudnike storitev, vključno s storitvami, povezanimi z:"
+      ],
+      "list": [
+        "Gostovanjem strežnikov in shranjevanjem podatkov",
+        "Analitiko",
+        "Poročanjem o zrušitvah",
+        "Oglaševanjem"
+      ]
+    },
+    {
+      "title": "",
+      "paragraphs": [
+        "Ti ponudniki lahko obdelujejo informacije, kolikor je potrebno za zagotavljanje njihovih storitev.",
+        "Osebnih podatkov uporabnikov ne prodajamo."
+      ]
+    },
+    {
+      "title": "9. Varnost podatkov",
+      "paragraphs": [
+        "Sprejemamo razumne ukrepe, namenjene zaščiti informacij, ki jih obdeluje Tareitas, pred nepooblaščenim dostopom, spreminjanjem, razkritjem ali uničenjem.",
+        "Nobene metode elektronskega shranjevanja ali prenosa pa ni mogoče zagotoviti kot popolnoma varne."
+      ]
+    },
+    {
+      "title": "10. Hranjenje in brisanje podatkov",
+      "paragraphs": [
+        "Informacije, shranjene na naših strežnikih, hranimo toliko časa, kolikor je potrebno za zagotavljanje ustreznih storitev Tareitas, ali kot to sicer zahtevajo zakoniti operativni ali pravni nameni.",
+        "Uporabniki lahko zahtevajo izbris svojih osebnih podatkov, shranjenih na strežniku, tako da nas kontaktirajo na e-poštni naslov, naveden spodaj.",
+        "Informacije, shranjene samo na uporabnikovi napravi, lahko uporabnik odstrani z ustrezno funkcijo aplikacije ali z odstranitvijo shranjenih podatkov aplikacije iz naprave."
+      ]
+    },
+    {
+      "title": "11. Vaše izbire",
+      "paragraphs": [
+        "Uporabniki lahko izbirajo med:",
+        "Uporabniki se lahko tudi odločijo, ali se naročijo na razpoložljivo različico brez oglasov, če je na voljo."
+      ],
+      "list": [
+        "Multidevices — družinski podatki se shranjujejo na našem strežniku, da omogočijo sinhronizacijo med napravami.",
+        "Samo ta naprava — družinski podatki se shranjujejo lokalno na napravi in se ne sinhronizirajo prek našega strežnika."
+      ]
+    },
+    {
+      "title": "12. Spremembe tega Pravilnika o zasebnosti",
+      "paragraphs": [
+        "Ta Pravilnik o zasebnosti lahko občasno posodobimo.",
+        "Ko naredimo spremembe, posodobimo datum Zadnje posodobitve na vrhu tega Pravilnika o zasebnosti. Posodobljeni Pravilnik o zasebnosti bo na voljo na istem javnem URL-ju."
+      ]
+    },
+    {
+      "title": "13. Kontaktirajte nas",
+      "paragraphs": [
+        "Če imate vprašanja o tem Pravilniku o zasebnosti, o Tareitas ali o obdelavi osebnih podatkov, nas kontaktirajte na:"
+      ]
+    }
+  ],
+  "contact": {
+    "emailLabel": "E-pošta",
+    "email": "tarecitas@gmai.com",
+    "developerLabel": "Razvijalec/Podjetje",
+    "developer": "LogicGame: Butenko Yurii"
+  }
+}

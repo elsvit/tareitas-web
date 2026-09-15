@@ -1,0 +1,32 @@
+name: Deploy production
+
+on:
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Deploy to Hetzner
+        uses: appleboy/ssh-action@v1.2.2
+        with:
+          host: 65.109.136.166
+          username: root
+          key: ${{ secrets.DEPLOY_SSH_KEY }}
+          script: |
+            set -e
+
+            cd /var/www/tareitas-web
+
+            echo "Pulling latest main..."
+            git fetch origin main
+            git reset --hard origin/main
+
+            echo "Installing dependencies..."
+            yarn install --frozen-lockfile
+
+            echo "Building website..."
+            yarn build
+
+            echo "Deployment complete!"

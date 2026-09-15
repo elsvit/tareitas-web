@@ -1,0 +1,30 @@
+@use 'styles/variables' as *;
+
+.home-page {
+  max-width: $maxContentWidth;
+  margin: 0 auto;
+  background: $white;
+  border: 1px solid $gray-200;
+  border-radius: 12px;
+  padding: 40px 32px;
+  text-align: center;
+}
+
+.home-page h1 {
+  margin: 0 0 12px;
+  font-size: 2.4rem;
+  color: $blue-600;
+}
+
+.home-page__lead {
+  margin: 0 0 24px;
+  color: $gray-700;
+  font-size: 1.1rem;
+}
+
+.home-page__links {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  font-weight: 500;
+}

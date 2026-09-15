@@ -1,0 +1,178 @@
+{
+  "title": "Tareitas privātuma politika",
+  "lastUpdatedLabel": "Pēdējo reizi atjaunināts",
+  "lastUpdated": "2026. gada 15. septembris",
+  "intro": [
+    "Tareitas (“Tareitas”, “mēs”, “mūs” vai “mūsu”) ir ģimenes lietotne, kas palīdz vecākiem un bērniem pārvaldīt ikdienas uzdevumus, rutīnas, zvaigznītes un balvas.",
+    "Šī privātuma politika skaidro, kādu informāciju Tareitas var apstrādāt, kā tā tiek glabāta un izmantota, un kādas izvēles ir pieejamas lietotājiem."
+  ],
+  "sections": [
+    {
+      "title": "1. Informācija, ko mēs apstrādājam",
+      "paragraphs": [
+        "Atkarībā no izmantotajām funkcijām un izvēlētā glabāšanas režīma Tareitas var apstrādāt šādu informāciju:"
+      ],
+      "list": [
+        "Administratora vārds un e-pasta adrese",
+        "Vecāku vārdi",
+        "Bērnu vārdi",
+        "Uzdevumi un rutīnas",
+        "Zvaigznītes un balvas",
+        "Lietotāju augšupielādēti attēli uzdevumiem vai balvām",
+        "Lietotāju avatāri",
+        "Analītikas un avāriju ziņošanas informācija",
+        "Ar reklāmu saistīta informācija, ja lietotājs nav abonējis versiju bez reklāmām",
+        "Lietotāji var izvēlēties, vai ģimenes dati tiek glabāti tikai viņu ierīcē vai sinhronizēti vairākās ierīcēs."
+      ]
+    },
+    {
+      "title": "2. Glabāšanas režīmi",
+      "paragraphs": [
+        "Multidevices režīms",
+        "Kad lietotājs izvēlas Multidevices, ģimenes dati tiek glabāti mūsu serverī, lai tos varētu sinhronizēt starp lietotāja ierīcēm.",
+        "Serverī glabātie dati var ietvert:"
+      ],
+      "list": [
+        "Administratora vārds un e-pasta adrese",
+        "Vecāku un bērnu vārdi",
+        "Uzdevumi un rutīnas",
+        "Zvaigznītes un balvas",
+        "Uzdevumu un balvu attēli",
+        "Avatāri"
+      ]
+    },
+    {
+      "title": "",
+      "paragraphs": [
+        "Šī informācija tiek izmantota, lai nodrošinātu lietotnes sinhronizācijas un ģimenes pārvaldības funkcijas.",
+        "Režīms Tikai šī ierīce",
+        "Kad lietotājs izvēlas Tikai šī ierīce, lietotnes ģimenes dati tiek glabāti lokāli lietotāja ierīcē un netiek augšupielādēti mūsu serverī sinhronizācijai.",
+        "Tomēr analītikas, avāriju ziņošanas un reklāmas pakalpojumi joprojām var apstrādāt informāciju, kā aprakstīts šajā privātuma politikā."
+      ]
+    },
+    {
+      "title": "3. Attēli un lietotāju veidots saturs",
+      "paragraphs": [
+        "Tareitas ļauj lietotājiem augšupielādēt attēlus, lai pielāgotu uzdevumus un balvas.",
+        "Lietotāji ir atbildīgi par to, lai viņiem būtu attiecīgas tiesības augšupielādēt attēlus, kurus viņi izvēlas izmantot.",
+        "Multidevices režīmā augšupielādētie uzdevumu un balvu attēli var tikt glabāti mūsu serverī, lai tos varētu sinhronizēt starp lietotāja ierīcēm.",
+        "Režīmā Tikai šī ierīce šie attēli tiek glabāti lokāli lietotāja ierīcē un netiek augšupielādēti mūsu serverī sinhronizācijai.",
+        "Lietotājiem jāizvairās attēlos augšupielādēt sensitīvu vai nevajadzīgu personas informāciju."
+      ]
+    },
+    {
+      "title": "4. Kā mēs izmantojam informāciju",
+      "paragraphs": ["Informāciju, ko apstrādā Tareitas, var izmantot, lai:"],
+      "list": [
+        "Nodrošinātu un darbinātu lietotnes funkcijas",
+        "Sinhronizētu ģimenes datus starp ierīcēm, kad ir izvēlēts Multidevices režīms",
+        "Parādītu uzdevumus, rutīnas, zvaigznītes un balvas",
+        "Glabātu un parādītu lietotāju augšupielādētos attēlus un avatārus",
+        "Uzturētu un uzlabotu lietotni",
+        "Identificētu un novērstu tehniskas problēmas",
+        "Diagnosticētu avārijas un citas tehniskas problēmas",
+        "Rādītu reklāmu lietotājiem, kuri nav abonējuši versiju bez reklāmām",
+        "Atbildētu uz atbalsta pieprasījumiem"
+      ]
+    },
+    {
+      "title": "5. Analītika un avāriju ziņošana",
+      "paragraphs": [
+        "Tareitas var izmantot analītikas un avāriju ziņošanas tehnoloģijas, lai saprastu lietotnes lietojumu, identificētu tehniskas problēmas, diagnosticētu avārijas un uzlabotu lietotnes veiktspēju un uzticamību.",
+        "Šie pakalpojumi var apkopot tehnisku informāciju par lietotni un ierīci, piemēram, informāciju par avārijām, veiktspēju un lietotnes lietojumu."
+      ]
+    },
+    {
+      "title": "6. Reklāma",
+      "paragraphs": [
+        "Ja lietotājs nav abonējis Tareitas versiju bez reklāmām, lietotne var rādīt reklāmas.",
+        "Reklāmas nodrošinātāji var apkopot vai apstrādāt informāciju, kas nepieciešama, lai nodrošinātu, personalizētu, mērītu un uzlabotu reklāmu, ievērojot to piemērojamās privātuma politikas un iestatījumus."
+      ]
+    },
+    {
+      "title": "7. Informācija par bērniem",
+      "paragraphs": [
+        "Tareitas ir paredzēta ģimenēm un var ļaut vecākiem vai aizbildņiem ievadīt informāciju par bērniem, piemēram:"
+      ],
+      "list": [
+        "Bērnu vārdi",
+        "Uzdevumi un rutīnas",
+        "Zvaigznītes un balvas",
+        "Avatāri",
+        "Attēli, kas saistīti ar uzdevumiem vai balvām"
+      ]
+    },
+    {
+      "title": "",
+      "paragraphs": [
+        "Vecāki vai aizbildņi ir atbildīgi par informāciju, ko viņi ievada lietotnē.",
+        "Tareitas neprasa, lai bērni sniegtu e-pasta adresi vai citus tiešus kontaktus, lai izmantotu lietotnes ģimenes funkcijas.",
+        "Lietotājiem nevajadzētu augšupielādēt nevajadzīgu sensitīvu personas informāciju par bērniem."
+      ]
+    },
+    {
+      "title": "8. Informācijas kopīgošana",
+      "paragraphs": [
+        "Mēs varam izmantot trešo pušu pakalpojumu sniedzējus, lai nodrošinātu pakalpojumus, kas nepieciešami Tareitas darbībai, tostarp pakalpojumus, kas saistīti ar:"
+      ],
+      "list": [
+        "Serveru mitināšanu un datu glabāšanu",
+        "Analītiku",
+        "Avāriju ziņošanu",
+        "Reklāmu"
+      ]
+    },
+    {
+      "title": "",
+      "paragraphs": [
+        "Šie nodrošinātāji var apstrādāt informāciju tādā apjomā, kāds nepieciešams viņu pakalpojumu sniegšanai.",
+        "Mēs nepārdodam lietotāju personas informāciju."
+      ]
+    },
+    {
+      "title": "9. Datu drošība",
+      "paragraphs": [
+        "Mēs veicam saprātīgus pasākumus, kas paredzēti, lai aizsargātu Tareitas apstrādāto informāciju pret nesankcionētu piekļuvi, izmaiņām, izpaušanu vai iznīcināšanu.",
+        "Tomēr nevienu elektroniskās glabāšanas vai pārsūtīšanas metodi nevar garantēt kā pilnīgi drošu."
+      ]
+    },
+    {
+      "title": "10. Datu glabāšana un dzēšana",
+      "paragraphs": [
+        "Informāciju, kas glabājas mūsu serveros, mēs saglabājam tik ilgi, cik nepieciešams, lai sniegtu attiecīgos Tareitas pakalpojumus, vai kā to citādi prasa leģitīmi darbības vai juridiski mērķi.",
+        "Lietotāji var pieprasīt savas serverī glabātās personas informācijas dzēšanu, sazinoties ar mums, izmantojot tālāk norādīto e-pasta adresi.",
+        "Informāciju, kas glabājas tikai lietotāja ierīcē, lietotājs var noņemt, izmantojot attiecīgo lietotnes funkcionalitāti, vai noņemot lietotnes saglabātos datus no ierīces."
+      ]
+    },
+    {
+      "title": "11. Jūsu izvēles",
+      "paragraphs": [
+        "Lietotāji var izvēlēties starp:",
+        "Lietotāji var arī izvēlēties, vai abonēt pieejamo versiju bez reklāmām, ja tā tiek piedāvāta."
+      ],
+      "list": [
+        "Multidevices — ģimenes dati tiek glabāti mūsu serverī, lai nodrošinātu sinhronizāciju starp ierīcēm.",
+        "Tikai šī ierīce — ģimenes dati tiek glabāti lokāli ierīcē, nevis sinhronizēti caur mūsu serveri."
+      ]
+    },
+    {
+      "title": "12. Izmaiņas šajā privātuma politikā",
+      "paragraphs": [
+        "Mēs varam laiku pa laikam atjaunināt šo privātuma politiku.",
+        "Kad mēs veicam izmaiņas, mēs atjauninām datumu Pēdējo reizi atjaunināts šīs privātuma politikas augšpusē. Atjauninātā privātuma politika būs pieejama tajā pašā publiskajā URL."
+      ]
+    },
+    {
+      "title": "13. Sazinieties ar mums",
+      "paragraphs": [
+        "Ja jums ir jautājumi par šo privātuma politiku, Tareitas vai personas informācijas apstrādi, lūdzu, sazinieties ar mums:"
+      ]
+    }
+  ],
+  "contact": {
+    "emailLabel": "E-pasts",
+    "email": "tarecitas@gmai.com",
+    "developerLabel": "Izstrādātājs/Uzņēmums",
+    "developer": "LogicGame: Butenko Yurii"
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "title": "Zásady ochrany osobních údajů Tareitas",
+  "lastUpdatedLabel": "Poslední aktualizace",
+  "lastUpdated": "15. září 2026",
+  "intro": [
+    "Tareitas („Tareitas“, „my“, „nás“ nebo „náš“) je rodinná aplikace navržená tak, aby pomáhala rodičům a dětem spravovat denní úkoly, rutiny, hvězdy a odměny.",
+    "Tyto Zásady ochrany osobních údajů vysvětlují, jaké informace může Tareitas zpracovávat, jak jsou ukládány a používány a jaké volby mají uživatelé k dispozici."
+  ],
+  "sections": [
+    {
+      "title": "1. Informace, které zpracováváme",
+      "paragraphs": [
+        "V závislosti na používaných funkcích a zvoleném režimu ukládání může Tareitas zpracovávat následující informace:"
+      ],
+      "list": [
+        "Jméno a e-mailová adresa správce",
+        "Jména rodičů",
+        "Jména dětí",
+        "Úkoly a rutiny",
+        "Hvězdy a odměny",
+        "Obrázky nahrané uživateli k úkolům nebo odměnám",
+        "Avatary uživatelů",
+        "Informace z analytiky a hlášení pádů",
+        "Informace související s reklamou, pokud uživatel nemá předplatné verze bez reklam",
+        "Uživatelé si mohou zvolit, zda se rodinná data uloží pouze na jejich zařízení, nebo se synchronizují napříč více zařízeními."
+      ]
+    },
+    {
+      "title": "2. Režimy ukládání",
+      "paragraphs": [
+        "Režim Multidevices",
+        "Když uživatel zvolí Multidevices, rodinná data se ukládají na našem serveru, aby mohla být synchronizována mezi zařízeními uživatele.",
+        "Data uložená na serveru mohou zahrnovat:"
+      ],
+      "list": [
+        "Jméno a e-mailová adresa správce",
+        "Jména rodičů a dětí",
+        "Úkoly a rutiny",
+        "Hvězdy a odměny",
+        "Obrázky úkolů a odměn",
+        "Avatary"
+      ]
+    },
+    {
+      "title": "",
+      "paragraphs": [
+        "Tyto informace se používají k poskytování funkcí synchronizace aplikace a správy rodiny.",
+        "Režim Pouze toto zařízení",
+        "Když uživatel zvolí Pouze toto zařízení, rodinná data aplikace se ukládají lokálně na zařízení uživatele a nenahrávají se na náš server za účelem synchronizace.",
+        "Služby analytiky, hlášení pádů a reklamy však mohou i nadále zpracovávat informace, jak je popsáno v těchto Zásadách ochrany osobních údajů."
+      ]
+    },
+    {
+      "title": "3. Obrázky a obsah vytvořený uživateli",
+      "paragraphs": [
+        "Tareitas umožňuje uživatelům nahrávat obrázky pro přizpůsobení úkolů a odměn.",
+        "Uživatelé odpovídají za to, že mají příslušná práva k nahrání obrázků, které se rozhodnou použít.",
+        "V režimu Multidevices mohou být nahrané obrázky úkolů a odměn uloženy na našem serveru, aby je bylo možné synchronizovat mezi zařízeními uživatele.",
+        "V režimu Pouze toto zařízení se tyto obrázky ukládají lokálně na zařízení uživatele a nenahrávají se na náš server za účelem synchronizace.",
+        "Uživatelé by se měli vyhnout nahrávání citlivých nebo zbytečných osobních údajů v obrázcích."
+      ]
+    },
+    {
+      "title": "4. Jak informace používáme",
+      "paragraphs": ["Informace zpracovávané službou Tareitas mohou být použity k:"],
+      "list": [
+        "Poskytování a provozování funkcí aplikace",
+        "Synchronizaci rodinných dat mezi zařízeními, pokud je zvolen režim Multidevices",
+        "Zobrazení úkolů, rutin, hvězd a odměn",
+        "Ukládání a zobrazení obrázků a avatarů nahraných uživateli",
+        "Údržbě a vylepšování aplikace",
+        "Identifikaci a opravě technických problémů",
+        "Diagnostice pádů a dalších technických problémů",
+        "Poskytování reklamy uživatelům, kteří nemají předplatné verze bez reklam",
+        "Odpovídání na žádosti o podporu"
+      ]
+    },
+    {
+      "title": "5. Analytika a hlášení pádů",
+      "paragraphs": [
+        "Tareitas může používat technologie analytiky a hlášení pádů, aby pochopila používání aplikace, identifikovala technické problémy, diagnostikovala pády a zlepšila výkon a spolehlivost aplikace.",
+        "Tyto služby mohou shromažďovat technické informace o aplikaci a zařízení, například informace o pádech, výkonu a používání aplikace."
+      ]
+    },
+    {
+      "title": "6. Reklama",
+      "paragraphs": [
+        "Pokud uživatel nemá předplatné verze Tareitas bez reklam, může aplikace zobrazovat reklamy.",
+        "Poskytovatelé reklamy mohou shromažďovat nebo zpracovávat informace nezbytné k poskytování, personalizaci, měření a zlepšování reklamy, s výhradou jejich příslušných zásad ochrany osobních údajů a nastavení."
+      ]
+    },
+    {
+      "title": "7. Informace o dětech",
+      "paragraphs": [
+        "Tareitas je navržena pro rodiny a může rodičům nebo opatrovníkům umožnit zadávat informace o dětech, například:"
+      ],
+      "list": [
+        "Jména dětí",
+        "Úkoly a rutiny",
+        "Hvězdy a odměny",
+        "Avatary",
+        "Obrázky spojené s úkoly nebo odměnami"
+      ]
+    },
+    {
+      "title": "",
+      "paragraphs": [
+        "Rodiče nebo opatrovníci odpovídají za informace, které do aplikace zadají.",
+        "Tareitas nevyžaduje, aby děti poskytovaly e-mailovou adresu nebo jiné přímé kontaktní údaje k používání rodinných funkcí aplikace.",
+        "Uživatelé by neměli nahrávat zbytečné citlivé osobní údaje o dětech."
+      ]
+    },
+    {
+      "title": "8. Sdílení informací",
+      "paragraphs": [
+        "K poskytování služeb nezbytných pro provoz Tareitas můžeme využívat poskytovatele služeb třetích stran, včetně služeb souvisejících s:"
+      ],
+      "list": [
+        "Hostingem serverů a ukládáním dat",
+        "Analytikou",
+        "Hlášením pádů",
+        "Reklamou"
+      ]
+    },
+    {
+      "title": "",
+      "paragraphs": [
+        "Tito poskytovatelé mohou zpracovávat informace v rozsahu nezbytném k poskytování svých služeb.",
+        "Osobní údaje uživatelů neprodáváme."
+      ]
+    },
+    {
+      "title": "9. Zabezpečení dat",
+      "paragraphs": [
+        "Přijímáme přiměřená opatření určená k ochraně informací zpracovávaných službou Tareitas před neoprávněným přístupem, změnou, zveřejněním nebo zničením.",
+        "Žádnou metodu elektronického ukládání nebo přenosu však nelze zaručit jako zcela bezpečnou."
+      ]
+    },
+    {
+      "title": "10. Uchovávání a mazání dat",
+      "paragraphs": [
+        "Informace uložené na našich serverech uchováváme tak dlouho, jak je to nutné k poskytování příslušných služeb Tareitas, nebo jak to jinak vyžadují oprávněné provozní či právní účely.",
+        "Uživatelé mohou požádat o smazání svých osobních údajů uložených na serveru tak, že nás kontaktují na e-mailové adrese uvedené níže.",
+        "Informace uložené pouze na zařízení uživatele může uživatel odstranit pomocí příslušné funkce aplikace nebo odstraněním uložených dat aplikace ze zařízení."
+      ]
+    },
+    {
+      "title": "11. Vaše volby",
+      "paragraphs": [
+        "Uživatelé si mohou vybrat mezi:",
+        "Uživatelé se také mohou rozhodnout, zda si předplatí dostupnou verzi bez reklam, pokud je nabízena."
+      ],
+      "list": [
+        "Multidevices — rodinná data se ukládají na našem serveru, aby bylo možné synchronizovat je mezi zařízeními.",
+        "Pouze toto zařízení — rodinná data se ukládají lokálně na zařízení, nikoli synchronizují prostřednictvím našeho serveru."
+      ]
+    },
+    {
+      "title": "12. Změny těchto Zásad ochrany osobních údajů",
+      "paragraphs": [
+        "Tyto Zásady ochrany osobních údajů můžeme čas od času aktualizovat.",
+        "Když provedeme změny, aktualizujeme datum Poslední aktualizace v horní části těchto Zásad ochrany osobních údajů. Aktualizované Zásady ochrany osobních údajů budou k dispozici na stejné veřejné adrese URL."
+      ]
+    },
+    {
+      "title": "13. Kontaktujte nás",
+      "paragraphs": [
+        "Máte-li otázky k těmto Zásadám ochrany osobních údajů, k Tareitas nebo ke zpracování osobních údajů, kontaktujte nás na:"
+      ]
+    }
+  ],
+  "contact": {
+    "emailLabel": "E-mail",
+    "email": "tarecitas@gmai.com",
+    "developerLabel": "Vývojář/Společnost",
+    "developer": "LogicGame: Butenko Yurii"
+  }
+}

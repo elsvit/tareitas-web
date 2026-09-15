@@ -1,0 +1,178 @@
+{
+  "title": "Política de privacidad de Tareitas",
+  "lastUpdatedLabel": "Última actualización",
+  "lastUpdated": "15 de septiembre de 2026",
+  "intro": [
+    "Tareitas («Tareitas», «nosotros», «nos» o «nuestro») es una aplicación familiar diseñada para ayudar a padres e hijos a gestionar tareas diarias, rutinas, estrellas y recompensas.",
+    "Esta Política de privacidad explica qué información puede tratar Tareitas, cómo se almacena y utiliza, y las opciones disponibles para los usuarios."
+  ],
+  "sections": [
+    {
+      "title": "1. Información que tratamos",
+      "paragraphs": [
+        "Según las funciones utilizadas y el modo de almacenamiento seleccionado, Tareitas puede tratar la siguiente información:"
+      ],
+      "list": [
+        "Nombre y dirección de correo electrónico del administrador",
+        "Nombres de los padres",
+        "Nombres de los niños",
+        "Tareas y rutinas",
+        "Estrellas y recompensas",
+        "Imágenes subidas por los usuarios para tareas o recompensas",
+        "Avatares de usuario",
+        "Información de analítica y de informes de fallos",
+        "Información relacionada con la publicidad cuando el usuario no se ha suscrito a una versión sin anuncios",
+        "Los usuarios pueden elegir si sus datos familiares se almacenan solo en su dispositivo o se sincronizan en varios dispositivos."
+      ]
+    },
+    {
+      "title": "2. Modos de almacenamiento",
+      "paragraphs": [
+        "Modo Multidevices",
+        "Cuando un usuario selecciona Multidevices, los datos familiares se almacenan en nuestro servidor para sincronizarlos entre los dispositivos del usuario.",
+        "Los datos almacenados en el servidor pueden incluir:"
+      ],
+      "list": [
+        "Nombre y dirección de correo electrónico del administrador",
+        "Nombres de padres e hijos",
+        "Tareas y rutinas",
+        "Estrellas y recompensas",
+        "Imágenes de tareas y recompensas",
+        "Avatares"
+      ]
+    },
+    {
+      "title": "",
+      "paragraphs": [
+        "Esta información se utiliza para proporcionar las funciones de sincronización y gestión familiar de la aplicación.",
+        "Modo Solo este dispositivo",
+        "Cuando un usuario selecciona Solo este dispositivo, los datos familiares de la aplicación se almacenan localmente en el dispositivo del usuario y no se suben a nuestro servidor para sincronización.",
+        "No obstante, los servicios de analítica, informes de fallos y publicidad pueden seguir tratando información según se describe en esta Política de privacidad."
+      ]
+    },
+    {
+      "title": "3. Imágenes y contenido creado por el usuario",
+      "paragraphs": [
+        "Tareitas permite a los usuarios subir imágenes para personalizar tareas y recompensas.",
+        "Los usuarios son responsables de asegurarse de que tienen los derechos adecuados para subir las imágenes que elijan usar.",
+        "En el modo Multidevices, las imágenes de tareas y recompensas subidas pueden almacenarse en nuestro servidor para sincronizarlas entre los dispositivos del usuario.",
+        "En el modo Solo este dispositivo, estas imágenes se almacenan localmente en el dispositivo del usuario y no se suben a nuestro servidor para sincronización.",
+        "Los usuarios deben evitar subir en las imágenes información personal sensible o innecesaria."
+      ]
+    },
+    {
+      "title": "4. Cómo usamos la información",
+      "paragraphs": ["La información tratada por Tareitas puede usarse para:"],
+      "list": [
+        "Proporcionar y operar las funciones de la aplicación",
+        "Sincronizar los datos familiares entre dispositivos cuando se selecciona el modo Multidevices",
+        "Mostrar tareas, rutinas, estrellas y recompensas",
+        "Almacenar y mostrar imágenes y avatares subidos por los usuarios",
+        "Mantener y mejorar la aplicación",
+        "Identificar y corregir problemas técnicos",
+        "Diagnosticar fallos y otros problemas técnicos",
+        "Mostrar publicidad a los usuarios que no se han suscrito a la versión sin anuncios",
+        "Responder a solicitudes de soporte"
+      ]
+    },
+    {
+      "title": "5. Analítica e informes de fallos",
+      "paragraphs": [
+        "Tareitas puede usar tecnologías de analítica e informes de fallos para comprender el uso de la aplicación, identificar problemas técnicos, diagnosticar fallos y mejorar el rendimiento y la fiabilidad de la aplicación.",
+        "Estos servicios pueden recopilar información técnica sobre la aplicación y el dispositivo, como información sobre fallos, rendimiento y uso de la aplicación."
+      ]
+    },
+    {
+      "title": "6. Publicidad",
+      "paragraphs": [
+        "Si un usuario no se ha suscrito a una versión de Tareitas sin anuncios, la aplicación puede mostrar anuncios.",
+        "Los proveedores de publicidad pueden recopilar o tratar la información necesaria para proporcionar, personalizar, medir y mejorar la publicidad, de conformidad con sus políticas de privacidad y ajustes aplicables."
+      ]
+    },
+    {
+      "title": "7. Información de los niños",
+      "paragraphs": [
+        "Tareitas está diseñada para familias y puede permitir que padres o tutores introduzcan información sobre los niños, como:"
+      ],
+      "list": [
+        "Nombres de los niños",
+        "Tareas y rutinas",
+        "Estrellas y recompensas",
+        "Avatares",
+        "Imágenes asociadas a tareas o recompensas"
+      ]
+    },
+    {
+      "title": "",
+      "paragraphs": [
+        "Los padres o tutores son responsables de la información que introducen en la aplicación.",
+        "Tareitas no exige a los niños que proporcionen una dirección de correo electrónico u otros datos de contacto directo para usar las funciones familiares de la aplicación.",
+        "Los usuarios no deben subir información personal sensible innecesaria sobre los niños."
+      ]
+    },
+    {
+      "title": "8. Compartición de información",
+      "paragraphs": [
+        "Podemos usar proveedores de servicios terceros para prestar servicios necesarios para el funcionamiento de Tareitas, incluidos servicios relacionados con:"
+      ],
+      "list": [
+        "Alojamiento de servidores y almacenamiento de datos",
+        "Analítica",
+        "Informes de fallos",
+        "Publicidad"
+      ]
+    },
+    {
+      "title": "",
+      "paragraphs": [
+        "Estos proveedores pueden tratar información en la medida necesaria para prestar sus servicios.",
+        "No vendemos la información personal de los usuarios."
+      ]
+    },
+    {
+      "title": "9. Seguridad de los datos",
+      "paragraphs": [
+        "Adoptamos medidas razonables destinadas a proteger la información tratada por Tareitas frente al acceso, la alteración, la divulgación o la destrucción no autorizados.",
+        "Sin embargo, ningún método de almacenamiento o transmisión electrónica puede garantizarse como completamente seguro."
+      ]
+    },
+    {
+      "title": "10. Conservación y eliminación de datos",
+      "paragraphs": [
+        "Respecto a la información almacenada en nuestros servidores, la conservamos durante el tiempo necesario para prestar los servicios aplicables de Tareitas o según lo requieran fines operativos o legales legítimos.",
+        "Los usuarios pueden solicitar la eliminación de su información personal almacenada en el servidor contactándonos a través de la dirección de correo electrónico que figura más abajo.",
+        "Respecto a la información almacenada solo en el dispositivo del usuario, este puede eliminarla mediante la funcionalidad correspondiente de la aplicación o borrando los datos almacenados de la aplicación en el dispositivo."
+      ]
+    },
+    {
+      "title": "11. Sus opciones",
+      "paragraphs": [
+        "Los usuarios pueden elegir entre:",
+        "Los usuarios también pueden elegir si suscribirse a una versión sin anuncios disponible, si se ofrece."
+      ],
+      "list": [
+        "Multidevices: los datos familiares se almacenan en nuestro servidor para permitir la sincronización entre dispositivos.",
+        "Solo este dispositivo: los datos familiares se almacenan localmente en el dispositivo en lugar de sincronizarse a través de nuestro servidor."
+      ]
+    },
+    {
+      "title": "12. Cambios en esta Política de privacidad",
+      "paragraphs": [
+        "Podemos actualizar esta Política de privacidad de vez en cuando.",
+        "Cuando realicemos cambios, actualizaremos la fecha de Última actualización al inicio de esta Política de privacidad. La Política de privacidad actualizada estará disponible en la misma URL pública."
+      ]
+    },
+    {
+      "title": "13. Contacto",
+      "paragraphs": [
+        "Si tiene preguntas sobre esta Política de privacidad, Tareitas o el tratamiento de información personal, póngase en contacto con nosotros en:"
+      ]
+    }
+  ],
+  "contact": {
+    "emailLabel": "Correo electrónico",
+    "email": "tarecitas@gmai.com",
+    "developerLabel": "Desarrollador/Empresa",
+    "developer": "LogicGame: Butenko Yurii"
+  }
+}
