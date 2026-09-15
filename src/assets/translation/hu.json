@@ -1,0 +1,178 @@
+{
+  "title": "A Tareitas adatvédelmi irányelve",
+  "lastUpdatedLabel": "Utolsó frissítés",
+  "lastUpdated": "2026. szeptember 15.",
+  "intro": [
+    "A Tareitas („Tareitas”, „mi”, „minket” vagy „mienk”) egy családi alkalmazás, amely abban segíti a szülőket és a gyerekeket, hogy kezeljék a napi feladatokat, rutinokat, csillagokat és jutalmakat.",
+    "Ez az adatvédelmi irányelv elmagyarázza, milyen információkat kezelhet a Tareitas, hogyan tároljuk és használjuk azokat, valamint milyen választási lehetőségek állnak a felhasználók rendelkezésére."
+  ],
+  "sections": [
+    {
+      "title": "1. Az általunk kezelt információk",
+      "paragraphs": [
+        "A használt funkcióktól és a kiválasztott tárolási módtól függően a Tareitas a következő információkat kezelheti:"
+      ],
+      "list": [
+        "Az adminisztrátor neve és e-mail-címe",
+        "A szülők nevei",
+        "A gyerekek nevei",
+        "Feladatok és rutinok",
+        "Csillagok és jutalmak",
+        "A felhasználók által feladatokhoz vagy jutalmakhoz feltöltött képek",
+        "Felhasználói avatarok",
+        "Analitikai és összeomlásjelentési információk",
+        "A hirdetésekkel kapcsolatos információk, ha a felhasználó nem fizetett elő hirdetésmentes verzióra",
+        "A felhasználók választhatják, hogy a családi adatok csak az eszközükön tárolódjanak, vagy több eszközön szinkronizálódjanak."
+      ]
+    },
+    {
+      "title": "2. Tárolási módok",
+      "paragraphs": [
+        "Multidevices mód",
+        "Ha a felhasználó a Multidevices lehetőséget választja, a családi adatok a szerverünkön tárolódnak, hogy a felhasználó eszközei között szinkronizálhatók legyenek.",
+        "A szerveren tárolt adatok a következőket tartalmazhatják:"
+      ],
+      "list": [
+        "Az adminisztrátor neve és e-mail-címe",
+        "A szülők és a gyerekek nevei",
+        "Feladatok és rutinok",
+        "Csillagok és jutalmak",
+        "Feladatok és jutalmak képei",
+        "Avatarok"
+      ]
+    },
+    {
+      "title": "",
+      "paragraphs": [
+        "Ezeket az információkat az alkalmazás szinkronizálási és családkezelési funkcióinak biztosítására használjuk.",
+        "Csak ez az eszköz mód",
+        "Ha a felhasználó a Csak ez az eszköz lehetőséget választja, az alkalmazás családi adatai helyben, a felhasználó eszközén tárolódnak, és nem töltődnek fel a szerverünkre szinkronizálás céljából.",
+        "Az analitikai, összeomlásjelentési és hirdetési szolgáltatások azonban továbbra is kezelhetnek információkat az ebben az adatvédelmi irányelvben leírtak szerint."
+      ]
+    },
+    {
+      "title": "3. Képek és felhasználók által létrehozott tartalom",
+      "paragraphs": [
+        "A Tareitas lehetővé teszi a felhasználóknak, hogy képeket töltsenek fel a feladatok és jutalmak testreszabásához.",
+        "A felhasználók felelősek azért, hogy rendelkezzenek a megfelelő jogokkal a feltölteni kívánt képekhez.",
+        "Multidevices módban a feltöltött feladat- és jutalomképek a szerverünkön tárolhatók, hogy a felhasználó eszközei között szinkronizálhatók legyenek.",
+        "Csak ez az eszköz módban ezek a képek helyben, a felhasználó eszközén tárolódnak, és nem töltődnek fel a szerverünkre szinkronizálás céljából.",
+        "A felhasználóknak kerülniük kell érzékeny vagy szükségtelen személyes adatok feltöltését a képeken."
+      ]
+    },
+    {
+      "title": "4. Hogyan használjuk az információkat",
+      "paragraphs": ["A Tareitas által kezelt információk a következőkre használhatók:"],
+      "list": [
+        "Az alkalmazás funkcióinak biztosítása és működtetése",
+        "A családi adatok szinkronizálása az eszközök között, ha a Multidevices mód van kiválasztva",
+        "Feladatok, rutinok, csillagok és jutalmak megjelenítése",
+        "A felhasználók által feltöltött képek és avatarok tárolása és megjelenítése",
+        "Az alkalmazás karbantartása és fejlesztése",
+        "Technikai problémák azonosítása és javítása",
+        "Összeomlások és egyéb technikai problémák diagnosztizálása",
+        "Hirdetések megjelenítése azoknak a felhasználóknak, akik nem fizettek elő a hirdetésmentes verzióra",
+        "Támogatási kérések megválaszolása"
+      ]
+    },
+    {
+      "title": "5. Analitika és összeomlásjelentés",
+      "paragraphs": [
+        "A Tareitas analitikai és összeomlásjelentési technológiákat használhat az alkalmazáshasználat megértéséhez, a technikai problémák azonosításához, az összeomlások diagnosztizálásához, valamint az alkalmazás teljesítményének és megbízhatóságának javításához.",
+        "Ezek a szolgáltatások technikai információkat gyűjthetnek az alkalmazásról és az eszközről, például összeomlásokra, teljesítményre és alkalmazáshasználatra vonatkozó információkat."
+      ]
+    },
+    {
+      "title": "6. Hirdetések",
+      "paragraphs": [
+        "Ha a felhasználó nem fizetett elő a Tareitas hirdetésmentes verziójára, az alkalmazás hirdetéseket jeleníthet meg.",
+        "A hirdetésszolgáltatók gyűjthetnek vagy kezelhetnek a hirdetések biztosításához, személyre szabásához, méréséhez és javításához szükséges információkat, a rájuk vonatkozó adatvédelmi irányelvek és beállítások szerint."
+      ]
+    },
+    {
+      "title": "7. A gyermekekre vonatkozó információk",
+      "paragraphs": [
+        "A Tareitas családoknak készült, és lehetővé teheti a szülőknek vagy gondviselőknek, hogy információkat adjanak meg a gyerekekről, például:"
+      ],
+      "list": [
+        "A gyerekek nevei",
+        "Feladatok és rutinok",
+        "Csillagok és jutalmak",
+        "Avatarok",
+        "Feladatokhoz vagy jutalmakhoz kapcsolódó képek"
+      ]
+    },
+    {
+      "title": "",
+      "paragraphs": [
+        "A szülők vagy gondviselők felelősek az alkalmazásba bevitt információkért.",
+        "A Tareitas nem követeli meg a gyerekektől e-mail-cím vagy egyéb közvetlen elérhetőség megadását az alkalmazás családi funkcióinak használatához.",
+        "A felhasználóknak nem szabad szükségtelen, érzékeny személyes adatokat feltölteniük a gyerekekről."
+      ]
+    },
+    {
+      "title": "8. Információk megosztása",
+      "paragraphs": [
+        "Harmadik fél szolgáltatókat vehetünk igénybe a Tareitas működéséhez szükséges szolgáltatásokhoz, többek között a következőkkel kapcsolatos szolgáltatásokhoz:"
+      ],
+      "list": [
+        "Szerverhoszting és adattárolás",
+        "Analitika",
+        "Összeomlásjelentés",
+        "Hirdetések"
+      ]
+    },
+    {
+      "title": "",
+      "paragraphs": [
+        "Ezek a szolgáltatók az információkat a szolgáltatásaik nyújtásához szükséges mértékben kezelhetik.",
+        "Nem adjuk el a felhasználók személyes adatait."
+      ]
+    },
+    {
+      "title": "9. Adatbiztonság",
+      "paragraphs": [
+        "Ésszerű intézkedéseket teszünk, hogy megvédjük a Tareitas által kezelt információkat a jogosulatlan hozzáféréstől, módosítástól, nyilvánosságra hozataltól vagy megsemmisítéstől.",
+        "Az elektronikus tárolás vagy továbbítás egyetlen módszere sem garantálható azonban teljesen biztonságosnak."
+      ]
+    },
+    {
+      "title": "10. Adatmegőrzés és törlés",
+      "paragraphs": [
+        "A szervereinken tárolt információkat addig őrizzük meg, amíg az a vonatkozó Tareitas-szolgáltatások nyújtásához szükséges, vagy amíg azt jogszerű működési vagy jogi célok egyébként megkövetelik.",
+        "A felhasználók kérhetik a szerveren tárolt személyes adataik törlését, ha a lent megadott e-mail-címen kapcsolatba lépnek velünk.",
+        "A csak a felhasználó eszközén tárolt információkat a felhasználó eltávolíthatja az alkalmazás megfelelő funkciójával, vagy az alkalmazás tárolt adatainak törlésével az eszközről."
+      ]
+    },
+    {
+      "title": "11. Az Ön választási lehetőségei",
+      "paragraphs": [
+        "A felhasználók a következők közül választhatnak:",
+        "A felhasználók azt is választhatják, hogy előfizetnek-e egy elérhető hirdetésmentes verzióra, ha az fel van kínálva."
+      ],
+      "list": [
+        "Multidevices — a családi adatok a szerverünkön tárolódnak, hogy lehetővé tegyék az eszközök közötti szinkronizálást.",
+        "Csak ez az eszköz — a családi adatok helyben, az eszközön tárolódnak, nem pedig a szerverünkön keresztül szinkronizálódnak."
+      ]
+    },
+    {
+      "title": "12. Az adatvédelmi irányelv módosításai",
+      "paragraphs": [
+        "Ezt az adatvédelmi irányelvet időről időre frissíthetjük.",
+        "Amikor módosításokat végzünk, frissítjük az Utolsó frissítés dátumát az adatvédelmi irányelv tetején. A frissített adatvédelmi irányelv ugyanazon a nyilvános URL-en lesz elérhető."
+      ]
+    },
+    {
+      "title": "13. Kapcsolat",
+      "paragraphs": [
+        "Ha kérdése van ezzel az adatvédelmi irányelvvel, a Tareitasszal vagy a személyes adatok kezelésével kapcsolatban, lépjen kapcsolatba velünk a következő címen:"
+      ]
+    }
+  ],
+  "contact": {
+    "emailLabel": "E-mail",
+    "email": "tarecitas@gmai.com",
+    "developerLabel": "Fejlesztő/Cég",
+    "developer": "LogicGame: Butenko Yurii"
+  }
+}

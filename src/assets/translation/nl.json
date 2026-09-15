@@ -1,0 +1,178 @@
+{
+  "title": "Privacyverklaring van Tareitas",
+  "lastUpdatedLabel": "Laatst bijgewerkt",
+  "lastUpdated": "15 september 2026",
+  "intro": [
+    "Tareitas (“Tareitas”, “wij”, “ons” of “onze”) is een familie-app die ouders en kinderen helpt dagelijkse taken, routines, sterren en beloningen te beheren.",
+    "Deze Privacyverklaring legt uit welke informatie Tareitas kan verwerken, hoe die wordt opgeslagen en gebruikt, en welke keuzes gebruikers hebben."
+  ],
+  "sections": [
+    {
+      "title": "1. Informatie die we verwerken",
+      "paragraphs": [
+        "Afhankelijk van de gebruikte functies en de geselecteerde opslagmodus kan Tareitas de volgende informatie verwerken:"
+      ],
+      "list": [
+        "Naam en e-mailadres van de beheerder",
+        "Namen van ouders",
+        "Namen van kinderen",
+        "Taken en routines",
+        "Sterren en beloningen",
+        "Afbeeldingen die gebruikers uploaden voor taken of beloningen",
+        "Gebruikersavatars",
+        "Informatie over analyses en crashrapportage",
+        "Informatie met betrekking tot advertenties wanneer de gebruiker geen advertentievrije versie heeft",
+        "Gebruikers kunnen kiezen of hun gezinsgegevens alleen op hun apparaat worden opgeslagen of op meerdere apparaten worden gesynchroniseerd."
+      ]
+    },
+    {
+      "title": "2. Opslagmodi",
+      "paragraphs": [
+        "Multidevices-modus",
+        "Wanneer een gebruiker Multidevices selecteert, worden gezinsgegevens op onze server opgeslagen zodat de gegevens tussen de apparaten van de gebruiker kunnen worden gesynchroniseerd.",
+        "Op de server opgeslagen gegevens kunnen omvatten:"
+      ],
+      "list": [
+        "Naam en e-mailadres van de beheerder",
+        "Namen van ouders en kinderen",
+        "Taken en routines",
+        "Sterren en beloningen",
+        "Afbeeldingen van taken en beloningen",
+        "Avatars"
+      ]
+    },
+    {
+      "title": "",
+      "paragraphs": [
+        "Deze informatie wordt gebruikt om de synchronisatie- en gezinsbeheerfuncties van de toepassing te bieden.",
+        "Modus Alleen dit apparaat",
+        "Wanneer een gebruiker Alleen dit apparaat selecteert, worden de gezinsgegevens van de toepassing lokaal op het apparaat van de gebruiker opgeslagen en niet naar onze server geüpload voor synchronisatie.",
+        "Analytische diensten, crashrapportage en advertenties kunnen echter nog steeds informatie verwerken zoals beschreven in deze Privacyverklaring."
+      ]
+    },
+    {
+      "title": "3. Afbeeldingen en door gebruikers gemaakte inhoud",
+      "paragraphs": [
+        "Tareitas laat gebruikers afbeeldingen uploaden om taken en beloningen aan te passen.",
+        "Gebruikers zijn verantwoordelijk voor het hebben van de juiste rechten om de afbeeldingen te uploaden die zij willen gebruiken.",
+        "In de Multidevices-modus kunnen geüploade taak- en beloningsafbeeldingen op onze server worden opgeslagen zodat ze tussen de apparaten van de gebruiker kunnen worden gesynchroniseerd.",
+        "In de modus Alleen dit apparaat worden deze afbeeldingen lokaal op het apparaat van de gebruiker opgeslagen en niet naar onze server geüpload voor synchronisatie.",
+        "Gebruikers moeten vermijden gevoelige of onnodige persoonsgegevens in afbeeldingen te uploaden."
+      ]
+    },
+    {
+      "title": "4. Hoe we informatie gebruiken",
+      "paragraphs": ["Informatie die door Tareitas wordt verwerkt, kan worden gebruikt om:"],
+      "list": [
+        "De functies van de toepassing te bieden en te laten werken",
+        "Gezinsgegevens tussen apparaten te synchroniseren wanneer de Multidevices-modus is geselecteerd",
+        "Taken, routines, sterren en beloningen weer te geven",
+        "Door gebruikers geüploade afbeeldingen en avatars op te slaan en weer te geven",
+        "De toepassing te onderhouden en te verbeteren",
+        "Technische problemen te identificeren en op te lossen",
+        "Crashes en andere technische problemen te diagnosticeren",
+        "Advertenties te tonen aan gebruikers die geen advertentievrije versie hebben",
+        "Te reageren op ondersteuningsverzoeken"
+      ]
+    },
+    {
+      "title": "5. Analyses en crashrapportage",
+      "paragraphs": [
+        "Tareitas kan analyse- en crashrapportagetechnologieën gebruiken om het gebruik van de toepassing te begrijpen, technische problemen te identificeren, crashes te diagnosticeren en de prestaties en betrouwbaarheid van de toepassing te verbeteren.",
+        "Deze diensten kunnen technische informatie over de toepassing en het apparaat verzamelen, zoals informatie over crashes, prestaties en het gebruik van de toepassing."
+      ]
+    },
+    {
+      "title": "6. Advertenties",
+      "paragraphs": [
+        "Als een gebruiker geen advertentievrije versie van Tareitas heeft, kan de toepassing advertenties tonen.",
+        "Advertentieaanbieders kunnen informatie verzamelen of verwerken die nodig is om advertenties te bieden, te personaliseren, te meten en te verbeteren, onderworpen aan hun toepasselijke privacyverklaringen en instellingen."
+      ]
+    },
+    {
+      "title": "7. Informatie over kinderen",
+      "paragraphs": [
+        "Tareitas is ontworpen voor gezinnen en kan ouders of voogden toestaan informatie over kinderen in te voeren, zoals:"
+      ],
+      "list": [
+        "Namen van kinderen",
+        "Taken en routines",
+        "Sterren en beloningen",
+        "Avatars",
+        "Afbeeldingen die bij taken of beloningen horen"
+      ]
+    },
+    {
+      "title": "",
+      "paragraphs": [
+        "Ouders of voogden zijn verantwoordelijk voor de informatie die zij in de toepassing invoeren.",
+        "Tareitas vereist niet dat kinderen een e-mailadres of andere directe contactgegevens verstrekken om de gezinsfuncties van de toepassing te gebruiken.",
+        "Gebruikers mogen geen onnodige gevoelige persoonsgegevens over kinderen uploaden."
+      ]
+    },
+    {
+      "title": "8. Delen van informatie",
+      "paragraphs": [
+        "We kunnen derde dienstverleners gebruiken om diensten te leveren die nodig zijn voor de werking van Tareitas, waaronder diensten met betrekking tot:"
+      ],
+      "list": [
+        "Serverhosting en gegevensopslag",
+        "Analyses",
+        "Crashrapportage",
+        "Advertenties"
+      ]
+    },
+    {
+      "title": "",
+      "paragraphs": [
+        "Deze aanbieders kunnen informatie verwerken voor zover nodig om hun diensten te leveren.",
+        "We verkopen geen persoonsgegevens van gebruikers."
+      ]
+    },
+    {
+      "title": "9. Gegevensbeveiliging",
+      "paragraphs": [
+        "We nemen redelijke maatregelen om informatie die door Tareitas wordt verwerkt te beschermen tegen ongeoorloofde toegang, wijziging, openbaarmaking of vernietiging.",
+        "Geen enkele methode van elektronische opslag of overdracht kan echter als volledig veilig worden gegarandeerd."
+      ]
+    },
+    {
+      "title": "10. Bewaring en verwijdering van gegevens",
+      "paragraphs": [
+        "Voor informatie die op onze servers is opgeslagen, bewaren we de informatie zolang als nodig is om de toepasselijke Tareitas-diensten te leveren of zoals anders vereist voor legitieme operationele of wettelijke doeleinden.",
+        "Gebruikers kunnen verzoeken om verwijdering van hun op de server opgeslagen persoonsgegevens door contact met ons op te nemen via het onderstaande e-mailadres.",
+        "Voor informatie die alleen op het apparaat van de gebruiker is opgeslagen, kan de gebruiker de informatie verwijderen met de daarvoor bedoelde functionaliteit van de toepassing of door de opgeslagen gegevens van de toepassing van het apparaat te verwijderen."
+      ]
+    },
+    {
+      "title": "11. Uw keuzes",
+      "paragraphs": [
+        "Gebruikers kunnen kiezen tussen:",
+        "Gebruikers kunnen ook kiezen of ze een beschikbare advertentievrije versie nemen, indien aangeboden."
+      ],
+      "list": [
+        "Multidevices — gezinsgegevens worden op onze server opgeslagen om synchronisatie tussen apparaten mogelijk te maken.",
+        "Alleen dit apparaat — gezinsgegevens worden lokaal op het apparaat opgeslagen in plaats van via onze server gesynchroniseerd."
+      ]
+    },
+    {
+      "title": "12. Wijzigingen in deze Privacyverklaring",
+      "paragraphs": [
+        "We kunnen deze Privacyverklaring van tijd tot tijd bijwerken.",
+        "Wanneer we wijzigingen aanbrengen, werken we de datum Laatst bijgewerkt bovenaan deze Privacyverklaring bij. De bijgewerkte Privacyverklaring is beschikbaar op dezelfde openbare URL."
+      ]
+    },
+    {
+      "title": "13. Contact",
+      "paragraphs": [
+        "Als u vragen hebt over deze Privacyverklaring, Tareitas of de verwerking van persoonsgegevens, neem dan contact met ons op via:"
+      ]
+    }
+  ],
+  "contact": {
+    "emailLabel": "E-mail",
+    "email": "tarecitas@gmai.com",
+    "developerLabel": "Ontwikkelaar/Bedrijf",
+    "developer": "LogicGame: Butenko Yurii"
+  }
+}

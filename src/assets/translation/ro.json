@@ -1,0 +1,178 @@
+{
+  "title": "Politica de confidențialitate Tareitas",
+  "lastUpdatedLabel": "Ultima actualizare",
+  "lastUpdated": "15 septembrie 2026",
+  "intro": [
+    "Tareitas („Tareitas”, „noi”, „ne” sau „al nostru”) este o aplicație de familie concepută pentru a ajuta părinții și copiii să gestioneze sarcini zilnice, rutine, stele și recompense.",
+    "Această Politică de confidențialitate explică ce informații poate prelucra Tareitas, cum sunt stocate și utilizate și ce opțiuni au utilizatorii."
+  ],
+  "sections": [
+    {
+      "title": "1. Informațiile pe care le prelucrăm",
+      "paragraphs": [
+        "În funcție de funcțiile utilizate și de modul de stocare selectat, Tareitas poate prelucra următoarele informații:"
+      ],
+      "list": [
+        "Numele și adresa de e-mail a administratorului",
+        "Numele părinților",
+        "Numele copiilor",
+        "Sarcini și rutine",
+        "Stele și recompense",
+        "Imagini încărcate de utilizatori pentru sarcini sau recompense",
+        "Avataruri ale utilizatorilor",
+        "Informații de analiză și raportare a blocărilor",
+        "Informații legate de publicitate atunci când utilizatorul nu s-a abonat la o versiune fără reclame",
+        "Utilizatorii pot alege dacă datele familiei sunt stocate doar pe dispozitivul lor sau sunt sincronizate pe mai multe dispozitive."
+      ]
+    },
+    {
+      "title": "2. Moduri de stocare",
+      "paragraphs": [
+        "Modul Multidevices",
+        "Când un utilizator selectează Multidevices, datele familiei sunt stocate pe serverul nostru pentru a permite sincronizarea între dispozitivele utilizatorului.",
+        "Datele stocate pe server pot include:"
+      ],
+      "list": [
+        "Numele și adresa de e-mail a administratorului",
+        "Numele părinților și ale copiilor",
+        "Sarcini și rutine",
+        "Stele și recompense",
+        "Imagini ale sarcinilor și recompenselor",
+        "Avataruri"
+      ]
+    },
+    {
+      "title": "",
+      "paragraphs": [
+        "Aceste informații sunt folosite pentru a furniza funcțiile de sincronizare și de gestionare a familiei ale aplicației.",
+        "Modul Doar acest dispozitiv",
+        "Când un utilizator selectează Doar acest dispozitiv, datele familiei din aplicație sunt stocate local pe dispozitivul utilizatorului și nu sunt încărcate pe serverul nostru pentru sincronizare.",
+        "Totuși, serviciile de analiză, raportare a blocărilor și publicitate pot continua să prelucreze informații, după cum este descris în această Politică de confidențialitate."
+      ]
+    },
+    {
+      "title": "3. Imagini și conținut creat de utilizatori",
+      "paragraphs": [
+        "Tareitas le permite utilizatorilor să încarce imagini pentru a personaliza sarcinile și recompensele.",
+        "Utilizatorii sunt responsabili să se asigure că au drepturile corespunzătoare pentru a încărca imaginile pe care aleg să le folosească.",
+        "În modul Multidevices, imaginile de sarcini și recompense încărcate pot fi stocate pe serverul nostru pentru a fi sincronizate pe dispozitivele utilizatorului.",
+        "În modul Doar acest dispozitiv, aceste imagini sunt stocate local pe dispozitivul utilizatorului și nu sunt încărcate pe serverul nostru pentru sincronizare.",
+        "Utilizatorii trebuie să evite încărcarea de informații personale sensibile sau inutile în imagini."
+      ]
+    },
+    {
+      "title": "4. Cum folosim informațiile",
+      "paragraphs": ["Informațiile prelucrate de Tareitas pot fi folosite pentru:"],
+      "list": [
+        "Furnizarea și operarea funcțiilor aplicației",
+        "Sincronizarea datelor familiei între dispozitive atunci când este selectat modul Multidevices",
+        "Afișarea sarcinilor, rutinelor, stelelor și recompenselor",
+        "Stocarea și afișarea imaginilor și avatarurilor încărcate de utilizatori",
+        "Întreținerea și îmbunătățirea aplicației",
+        "Identificarea și remedierea problemelor tehnice",
+        "Diagnosticarea blocărilor și a altor probleme tehnice",
+        "Afișarea de publicitate utilizatorilor care nu s-au abonat la versiunea fără reclame",
+        "Răspunsul la solicitările de asistență"
+      ]
+    },
+    {
+      "title": "5. Analiză și raportare a blocărilor",
+      "paragraphs": [
+        "Tareitas poate folosi tehnologii de analiză și raportare a blocărilor pentru a înțelege utilizarea aplicației, a identifica probleme tehnice, a diagnostica blocări și a îmbunătăți performanța și fiabilitatea aplicației.",
+        "Aceste servicii pot colecta informații tehnice despre aplicație și dispozitiv, cum ar fi informații despre blocări, performanță și utilizarea aplicației."
+      ]
+    },
+    {
+      "title": "6. Publicitate",
+      "paragraphs": [
+        "Dacă un utilizator nu s-a abonat la o versiune Tareitas fără reclame, aplicația poate afișa reclame.",
+        "Furnizorii de publicitate pot colecta sau prelucra informațiile necesare pentru a furniza, personaliza, măsura și îmbunătăți publicitatea, în conformitate cu politicile lor de confidențialitate și setările aplicabile."
+      ]
+    },
+    {
+      "title": "7. Informațiile copiilor",
+      "paragraphs": [
+        "Tareitas este concepută pentru familii și poate permite părinților sau tutorilor să introducă informații despre copii, cum ar fi:"
+      ],
+      "list": [
+        "Numele copiilor",
+        "Sarcini și rutine",
+        "Stele și recompense",
+        "Avataruri",
+        "Imagini asociate sarcinilor sau recompenselor"
+      ]
+    },
+    {
+      "title": "",
+      "paragraphs": [
+        "Părinții sau tutorii sunt responsabili pentru informațiile pe care le introduc în aplicație.",
+        "Tareitas nu le cere copiilor să furnizeze o adresă de e-mail sau alte date de contact directe pentru a folosi funcțiile de familie ale aplicației.",
+        "Utilizatorii nu trebuie să încarce informații personale sensibile inutile despre copii."
+      ]
+    },
+    {
+      "title": "8. Partajarea informațiilor",
+      "paragraphs": [
+        "Putem folosi furnizori terți de servicii pentru a oferi servicii necesare funcționării Tareitas, inclusiv servicii legate de:"
+      ],
+      "list": [
+        "Găzduirea serverelor și stocarea datelor",
+        "Analiză",
+        "Raportarea blocărilor",
+        "Publicitate"
+      ]
+    },
+    {
+      "title": "",
+      "paragraphs": [
+        "Acești furnizori pot prelucra informații în măsura necesară pentru a-și oferi serviciile.",
+        "Nu vindem informațiile personale ale utilizatorilor."
+      ]
+    },
+    {
+      "title": "9. Securitatea datelor",
+      "paragraphs": [
+        "Luăm măsuri rezonabile menite să protejeze informațiile prelucrate de Tareitas împotriva accesului, modificării, divulgării sau distrugerii neautorizate.",
+        "Totuși, nicio metodă de stocare sau transmitere electronică nu poate fi garantată ca fiind complet sigură."
+      ]
+    },
+    {
+      "title": "10. Păstrarea și ștergerea datelor",
+      "paragraphs": [
+        "Pentru informațiile stocate pe serverele noastre, le păstrăm atât timp cât este necesar pentru a furniza serviciile Tareitas aplicabile sau după cum este altfel necesar în scopuri operaționale sau legale legitime.",
+        "Utilizatorii pot solicita ștergerea informațiilor personale stocate pe server contactându-ne la adresa de e-mail de mai jos.",
+        "Pentru informațiile stocate doar pe dispozitivul utilizatorului, utilizatorul le poate elimina folosind funcționalitatea corespunzătoare a aplicației sau prin eliminarea datelor stocate ale aplicației de pe dispozitiv."
+      ]
+    },
+    {
+      "title": "11. Opțiunile dvs.",
+      "paragraphs": [
+        "Utilizatorii pot alege între:",
+        "Utilizatorii pot alege, de asemenea, dacă se abonează la o versiune fără reclame disponibilă, dacă este oferită."
+      ],
+      "list": [
+        "Multidevices — datele familiei sunt stocate pe serverul nostru pentru a permite sincronizarea între dispozitive.",
+        "Doar acest dispozitiv — datele familiei sunt stocate local pe dispozitiv, nu sincronizate prin serverul nostru."
+      ]
+    },
+    {
+      "title": "12. Modificări ale acestei Politici de confidențialitate",
+      "paragraphs": [
+        "Putem actualiza această Politică de confidențialitate din când în când.",
+        "Când facem modificări, vom actualiza data Ultimei actualizări din partea de sus a acestei Politici de confidențialitate. Politica de confidențialitate actualizată va fi disponibilă la același URL public."
+      ]
+    },
+    {
+      "title": "13. Contactați-ne",
+      "paragraphs": [
+        "Dacă aveți întrebări despre această Politică de confidențialitate, despre Tareitas sau despre prelucrarea informațiilor personale, vă rugăm să ne contactați la:"
+      ]
+    }
+  ],
+  "contact": {
+    "emailLabel": "E-mail",
+    "email": "tarecitas@gmai.com",
+    "developerLabel": "Dezvoltator/Companie",
+    "developer": "LogicGame: Butenko Yurii"
+  }
+}

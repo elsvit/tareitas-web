@@ -1,0 +1,178 @@
+{
+  "title": "Polityka prywatności Tareitas",
+  "lastUpdatedLabel": "Ostatnia aktualizacja",
+  "lastUpdated": "15 września 2026",
+  "intro": [
+    "Tareitas („Tareitas”, „my”, „nas” lub „nasz”) to aplikacja rodzinna, która pomaga rodzicom i dzieciom zarządzać codziennymi zadaniami, rutynami, gwiazdkami i nagrodami.",
+    "Niniejsza Polityka prywatności wyjaśnia, jakie informacje Tareitas może przetwarzać, w jaki sposób są one przechowywane i wykorzystywane oraz jakie wybory przysługują użytkownikom."
+  ],
+  "sections": [
+    {
+      "title": "1. Informacje, które przetwarzamy",
+      "paragraphs": [
+        "W zależności od używanych funkcji i wybranego trybu przechowywania Tareitas może przetwarzać następujące informacje:"
+      ],
+      "list": [
+        "Imię i adres e-mail administratora",
+        "Imiona rodziców",
+        "Imiona dzieci",
+        "Zadania i rutyny",
+        "Gwiazdki i nagrody",
+        "Obrazy przesłane przez użytkowników do zadań lub nagród",
+        "Awatary użytkowników",
+        "Informacje analityczne i zgłoszenia awarii",
+        "Informacje związane z reklamą, gdy użytkownik nie wykupił wersji bez reklam",
+        "Użytkownicy mogą wybrać, czy dane rodzinne są przechowywane tylko na ich urządzeniu, czy synchronizowane na wielu urządzeniach."
+      ]
+    },
+    {
+      "title": "2. Tryby przechowywania",
+      "paragraphs": [
+        "Tryb Multidevices",
+        "Gdy użytkownik wybiera Multidevices, dane rodzinne są przechowywane na naszym serwerze, aby mogły być synchronizowane między urządzeniami użytkownika.",
+        "Dane przechowywane na serwerze mogą obejmować:"
+      ],
+      "list": [
+        "Imię i adres e-mail administratora",
+        "Imiona rodziców i dzieci",
+        "Zadania i rutyny",
+        "Gwiazdki i nagrody",
+        "Obrazy zadań i nagród",
+        "Awatary"
+      ]
+    },
+    {
+      "title": "",
+      "paragraphs": [
+        "Informacje te są wykorzystywane do zapewnienia funkcji synchronizacji aplikacji i zarządzania rodziną.",
+        "Tryb Tylko to urządzenie",
+        "Gdy użytkownik wybiera Tylko to urządzenie, dane rodzinne aplikacji są przechowywane lokalnie na urządzeniu użytkownika i nie są przesyłane na nasz serwer w celu synchronizacji.",
+        "Usługi analityki, zgłaszania awarii i reklamy mogą jednak nadal przetwarzać informacje zgodnie z opisem w niniejszej Polityce prywatności."
+      ]
+    },
+    {
+      "title": "3. Obrazy i treści tworzone przez użytkowników",
+      "paragraphs": [
+        "Tareitas umożliwia użytkownikom przesyłanie obrazów w celu personalizacji zadań i nagród.",
+        "Użytkownicy odpowiadają za posiadanie odpowiednich praw do przesyłania obrazów, które chcą wykorzystać.",
+        "W trybie Multidevices przesłane obrazy zadań i nagród mogą być przechowywane na naszym serwerze, aby mogły być synchronizowane między urządzeniami użytkownika.",
+        "W trybie Tylko to urządzenie obrazy te są przechowywane lokalnie na urządzeniu użytkownika i nie są przesyłane na nasz serwer w celu synchronizacji.",
+        "Użytkownicy powinni unikać przesyłania w obrazach wrażliwych lub zbędnych danych osobowych."
+      ]
+    },
+    {
+      "title": "4. Jak wykorzystujemy informacje",
+      "paragraphs": ["Informacje przetwarzane przez Tareitas mogą być wykorzystywane do:"],
+      "list": [
+        "Świadczenia i obsługi funkcji aplikacji",
+        "Synchronizacji danych rodzinnych między urządzeniami, gdy wybrano tryb Multidevices",
+        "Wyświetlania zadań, rutyn, gwiazdek i nagród",
+        "Przechowywania i wyświetlania obrazów oraz awatarów przesłanych przez użytkowników",
+        "Utrzymywania i ulepszania aplikacji",
+        "Identyfikowania i naprawiania problemów technicznych",
+        "Diagnozowania awarii i innych problemów technicznych",
+        "Wyświetlania reklam użytkownikom, którzy nie wykupili wersji bez reklam",
+        "Odpowiadania na zgłoszenia wsparcia"
+      ]
+    },
+    {
+      "title": "5. Analityka i zgłaszanie awarii",
+      "paragraphs": [
+        "Tareitas może korzystać z technologii analityki i zgłaszania awarii, aby rozumieć sposób korzystania z aplikacji, identyfikować problemy techniczne, diagnozować awarie oraz poprawiać wydajność i niezawodność aplikacji.",
+        "Usługi te mogą zbierać informacje techniczne o aplikacji i urządzeniu, takie jak informacje o awariach, wydajności i korzystaniu z aplikacji."
+      ]
+    },
+    {
+      "title": "6. Reklama",
+      "paragraphs": [
+        "Jeśli użytkownik nie wykupił wersji Tareitas bez reklam, aplikacja może wyświetlać reklamy.",
+        "Dostawcy reklam mogą zbierać lub przetwarzać informacje niezbędne do dostarczania, personalizowania, mierzenia i ulepszania reklamy, z zastrzeżeniem ich obowiązujących polityk prywatności i ustawień."
+      ]
+    },
+    {
+      "title": "7. Informacje o dzieciach",
+      "paragraphs": [
+        "Tareitas jest przeznaczona dla rodzin i może umożliwiać rodzicom lub opiekunom wprowadzanie informacji o dzieciach, takich jak:"
+      ],
+      "list": [
+        "Imiona dzieci",
+        "Zadania i rutyny",
+        "Gwiazdki i nagrody",
+        "Awatary",
+        "Obrazy powiązane z zadaniami lub nagrodami"
+      ]
+    },
+    {
+      "title": "",
+      "paragraphs": [
+        "Rodzice lub opiekunowie odpowiadają za informacje, które wprowadzają do aplikacji.",
+        "Tareitas nie wymaga od dzieci podawania adresu e-mail ani innych bezpośrednich danych kontaktowych, aby korzystać z funkcji rodzinnych aplikacji.",
+        "Użytkownicy nie powinni przesyłać zbędnych wrażliwych danych osobowych o dzieciach."
+      ]
+    },
+    {
+      "title": "8. Udostępnianie informacji",
+      "paragraphs": [
+        "Możemy korzystać z usług zewnętrznych dostawców w celu świadczenia usług niezbędnych do działania Tareitas, w tym usług związanych z:"
+      ],
+      "list": [
+        "Hostingiem serwerów i przechowywaniem danych",
+        "Analityką",
+        "Zgłaszaniem awarii",
+        "Reklamą"
+      ]
+    },
+    {
+      "title": "",
+      "paragraphs": [
+        "Dostawcy ci mogą przetwarzać informacje w zakresie niezbędnym do świadczenia swoich usług.",
+        "Nie sprzedajemy danych osobowych użytkowników."
+      ]
+    },
+    {
+      "title": "9. Bezpieczeństwo danych",
+      "paragraphs": [
+        "Stosujemy uzasadnione środki mające na celu ochronę informacji przetwarzanych przez Tareitas przed nieuprawnionym dostępem, zmianą, ujawnieniem lub zniszczeniem.",
+        "Żadna metoda elektronicznego przechowywania ani przesyłania nie może jednak zostać zagwarantowana jako całkowicie bezpieczna."
+      ]
+    },
+    {
+      "title": "10. Przechowywanie i usuwanie danych",
+      "paragraphs": [
+        "Informacje przechowywane na naszych serwerach zachowujemy tak długo, jak jest to konieczne do świadczenia odpowiednich usług Tareitas lub jak wymaga tego uzasadniony cel operacyjny albo prawny.",
+        "Użytkownicy mogą poprosić o usunięcie swoich danych osobowych przechowywanych na serwerze, kontaktując się z nami pod adresem e-mail podanym poniżej.",
+        "Informacje przechowywane wyłącznie na urządzeniu użytkownika użytkownik może usunąć za pomocą odpowiedniej funkcji aplikacji lub usuwając dane aplikacji z urządzenia."
+      ]
+    },
+    {
+      "title": "11. Twoje wybory",
+      "paragraphs": [
+        "Użytkownicy mogą wybrać pomiędzy:",
+        "Użytkownicy mogą również zdecydować, czy wykupić dostępną wersję bez reklam, jeśli jest oferowana."
+      ],
+      "list": [
+        "Multidevices — dane rodzinne są przechowywane na naszym serwerze, aby umożliwić synchronizację między urządzeniami.",
+        "Tylko to urządzenie — dane rodzinne są przechowywane lokalnie na urządzeniu, a nie synchronizowane przez nasz serwer."
+      ]
+    },
+    {
+      "title": "12. Zmiany w niniejszej Polityce prywatności",
+      "paragraphs": [
+        "Możemy od czasu do czasu aktualizować niniejszą Politykę prywatności.",
+        "Gdy wprowadzamy zmiany, aktualizujemy datę Ostatniej aktualizacji na początku niniejszej Polityki prywatności. Zaktualizowana Polityka prywatności będzie dostępna pod tym samym publicznym adresem URL."
+      ]
+    },
+    {
+      "title": "13. Kontakt",
+      "paragraphs": [
+        "Jeśli masz pytania dotyczące niniejszej Polityki prywatności, Tareitas lub przetwarzania danych osobowych, skontaktuj się z nami pod adresem:"
+      ]
+    }
+  ],
+  "contact": {
+    "emailLabel": "E-mail",
+    "email": "tarecitas@gmai.com",
+    "developerLabel": "Deweloper/Firma",
+    "developer": "LogicGame: Butenko Yurii"
+  }
+}

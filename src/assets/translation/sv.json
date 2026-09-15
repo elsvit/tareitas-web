@@ -1,0 +1,178 @@
+{
+  "title": "Integritetspolicy för Tareitas",
+  "lastUpdatedLabel": "Senast uppdaterad",
+  "lastUpdated": "15 september 2026",
+  "intro": [
+    "Tareitas (“Tareitas”, “vi”, “oss” eller “vår”) är en familjeapp som hjälper föräldrar och barn att hantera dagliga uppgifter, rutiner, stjärnor och belöningar.",
+    "Denna integritetspolicy förklarar vilken information Tareitas kan behandla, hur den lagras och används samt vilka val användarna har."
+  ],
+  "sections": [
+    {
+      "title": "1. Information vi behandlar",
+      "paragraphs": [
+        "Beroende på vilka funktioner som används och vilket lagringsläge som valts kan Tareitas behandla följande information:"
+      ],
+      "list": [
+        "Administratörens namn och e-postadress",
+        "Föräldrars namn",
+        "Barns namn",
+        "Uppgifter och rutiner",
+        "Stjärnor och belöningar",
+        "Bilder som användare laddar upp för uppgifter eller belöningar",
+        "Användaravatarer",
+        "Information om analys och kraschrapportering",
+        "Information relaterad till reklam när användaren inte har prenumererat på en reklamfri version",
+        "Användare kan välja om deras familjedata lagras endast på deras enhet eller synkroniseras mellan flera enheter."
+      ]
+    },
+    {
+      "title": "2. Lagringslägen",
+      "paragraphs": [
+        "Läget Multidevices",
+        "När en användare väljer Multidevices lagras familjedata på vår server så att data kan synkroniseras mellan användarens enheter.",
+        "Data som lagras på servern kan omfatta:"
+      ],
+      "list": [
+        "Administratörens namn och e-postadress",
+        "Föräldrars och barns namn",
+        "Uppgifter och rutiner",
+        "Stjärnor och belöningar",
+        "Bilder för uppgifter och belöningar",
+        "Avatarer"
+      ]
+    },
+    {
+      "title": "",
+      "paragraphs": [
+        "Denna information används för att tillhandahålla appens funktioner för synkronisering och familjehantering.",
+        "Läget Endast den här enheten",
+        "När en användare väljer Endast den här enheten lagras appens familjedata lokalt på användarens enhet och laddas inte upp till vår server för synkronisering.",
+        "Analys-, kraschrapporterings- och reklamtjänster kan dock fortfarande behandla information enligt beskrivningen i denna integritetspolicy."
+      ]
+    },
+    {
+      "title": "3. Bilder och användarskapade innehåll",
+      "paragraphs": [
+        "Tareitas låter användare ladda upp bilder för att anpassa uppgifter och belöningar.",
+        "Användare ansvarar för att de har lämpliga rättigheter att ladda upp de bilder de väljer att använda.",
+        "I läget Multidevices kan uppladdade bilder för uppgifter och belöningar lagras på vår server så att de kan synkroniseras mellan användarens enheter.",
+        "I läget Endast den här enheten lagras dessa bilder lokalt på användarens enhet och laddas inte upp till vår server för synkronisering.",
+        "Användare bör undvika att ladda upp känslig eller onödig personlig information i bilder."
+      ]
+    },
+    {
+      "title": "4. Hur vi använder information",
+      "paragraphs": ["Information som behandlas av Tareitas kan användas för att:"],
+      "list": [
+        "Tillhandahålla och driva appens funktioner",
+        "Synkronisera familjedata mellan enheter när läget Multidevices är valt",
+        "Visa uppgifter, rutiner, stjärnor och belöningar",
+        "Lagra och visa bilder och avatarer som användare har laddat upp",
+        "Underhålla och förbättra appen",
+        "Identifiera och åtgärda tekniska problem",
+        "Diagnostisera krascher och andra tekniska problem",
+        "Visa reklam för användare som inte har prenumererat på den reklamfria versionen",
+        "Svara på supportförfrågningar"
+      ]
+    },
+    {
+      "title": "5. Analys och kraschrapportering",
+      "paragraphs": [
+        "Tareitas kan använda teknik för analys och kraschrapportering för att förstå appanvändning, identifiera tekniska problem, diagnostisera krascher och förbättra appens prestanda och tillförlitlighet.",
+        "Dessa tjänster kan samla in teknisk information om appen och enheten, till exempel information om krascher, prestanda och användning av appen."
+      ]
+    },
+    {
+      "title": "6. Reklam",
+      "paragraphs": [
+        "Om en användare inte har prenumererat på en reklamfri version av Tareitas kan appen visa annonser.",
+        "Reklamleverantörer kan samla in eller behandla information som behövs för att tillhandahålla, anpassa, mäta och förbättra reklam, med förbehåll för deras tillämpliga integritetspolicyer och inställningar."
+      ]
+    },
+    {
+      "title": "7. Information om barn",
+      "paragraphs": [
+        "Tareitas är utformad för familjer och kan låta föräldrar eller vårdnadshavare ange information om barn, till exempel:"
+      ],
+      "list": [
+        "Barns namn",
+        "Uppgifter och rutiner",
+        "Stjärnor och belöningar",
+        "Avatarer",
+        "Bilder kopplade till uppgifter eller belöningar"
+      ]
+    },
+    {
+      "title": "",
+      "paragraphs": [
+        "Föräldrar eller vårdnadshavare ansvarar för den information de anger i appen.",
+        "Tareitas kräver inte att barn uppger en e-postadress eller andra direkta kontaktuppgifter för att använda appens familjefunktioner.",
+        "Användare bör inte ladda upp onödig känslig personlig information om barn."
+      ]
+    },
+    {
+      "title": "8. Delning av information",
+      "paragraphs": [
+        "Vi kan använda tredjepartsleverantörer för att tillhandahålla tjänster som behövs för driften av Tareitas, inklusive tjänster relaterade till:"
+      ],
+      "list": [
+        "Serverhosting och datalagring",
+        "Analys",
+        "Kraschrapportering",
+        "Reklam"
+      ]
+    },
+    {
+      "title": "",
+      "paragraphs": [
+        "Dessa leverantörer kan behandla information i den utsträckning som behövs för att tillhandahålla sina tjänster.",
+        "Vi säljer inte användarnas personuppgifter."
+      ]
+    },
+    {
+      "title": "9. Datasäkerhet",
+      "paragraphs": [
+        "Vi vidtar rimliga åtgärder som syftar till att skydda information som behandlas av Tareitas mot obehörig åtkomst, ändring, avslöjande eller förstörelse.",
+        "Ingen metod för elektronisk lagring eller överföring kan dock garanteras vara helt säker."
+      ]
+    },
+    {
+      "title": "10. Datalagring och radering",
+      "paragraphs": [
+        "För information som lagras på våra servrar behåller vi informationen så länge det är nödvändigt för att tillhandahålla tillämpliga Tareitas-tjänster eller som annars krävs för legitima operativa eller rättsliga ändamål.",
+        "Användare kan begära radering av sina personuppgifter som lagras på servern genom att kontakta oss via e-postadressen nedan.",
+        "För information som lagras endast på användarens enhet kan användaren ta bort informationen med den tillämpliga funktionen i appen eller genom att ta bort appens lagrade data från enheten."
+      ]
+    },
+    {
+      "title": "11. Dina val",
+      "paragraphs": [
+        "Användare kan välja mellan:",
+        "Användare kan också välja om de vill prenumerera på en tillgänglig reklamfri version, om den erbjuds."
+      ],
+      "list": [
+        "Multidevices — familjedata lagras på vår server för att möjliggöra synkronisering mellan enheter.",
+        "Endast den här enheten — familjedata lagras lokalt på enheten i stället för att synkroniseras via vår server."
+      ]
+    },
+    {
+      "title": "12. Ändringar av denna integritetspolicy",
+      "paragraphs": [
+        "Vi kan uppdatera denna integritetspolicy då och då.",
+        "När vi gör ändringar uppdaterar vi datumet Senast uppdaterad högst upp i denna integritetspolicy. Den uppdaterade integritetspolicyn kommer att finnas tillgänglig på samma publika URL."
+      ]
+    },
+    {
+      "title": "13. Kontakta oss",
+      "paragraphs": [
+        "Om du har frågor om denna integritetspolicy, Tareitas eller behandlingen av personuppgifter, kontakta oss på:"
+      ]
+    }
+  ],
+  "contact": {
+    "emailLabel": "E-post",
+    "email": "tarecitas@gmai.com",
+    "developerLabel": "Utvecklare/Företag",
+    "developer": "LogicGame: Butenko Yurii"
+  }
+}
