@@ -9,10 +9,24 @@ Frontend website for [tareitas.net](https://tareitas.net).
 
 ```bash
 yarn install
-yarn dev
+```
+
+| Command | API | Database |
+|---------|-----|----------|
+| `yarn dev-local` | `http://localhost:3000` | Local Mac PostgreSQL |
+| `yarn dev-prod` | `https://api.tareitas.net` | Hetzner PostgreSQL |
+
+`yarn dev` is an alias for `yarn dev-local` (safe default).
+
+**Local backend** (required for `dev-local`):
+
+```bash
+cd ../tareitas-server && yarn dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173).
+
+> **Warning:** `dev-prod` talks to production. Do not test delete-account against real families.
 
 ## Build
 
@@ -28,6 +42,7 @@ Output: `dist/`
 |------|------|
 | `/` | Home |
 | `/privacy-policy` | Privacy Policy |
+| `/delete-account` | Delete account |
 
 ## Deploy (Hetzner)
 

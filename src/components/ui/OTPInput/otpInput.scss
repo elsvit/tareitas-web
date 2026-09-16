@@ -1,0 +1,41 @@
+@use 'styles/variables' as *;
+
+.ui-otp-input {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+
+.ui-otp-input__slot {
+  width: 48px;
+  height: 56px;
+  border: 1px solid $gray-200;
+  border-radius: 8px;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: $gray-900;
+  background: $white;
+
+  &:focus {
+    outline: none;
+    border-color: $blue-500;
+    box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.15);
+  }
+
+  &:disabled {
+    background: $gray-50;
+    color: $gray-500;
+  }
+}
+
+@media (max-width: 480px) {
+  .ui-otp-input {
+    gap: 8px;
+  }
+
+  .ui-otp-input__slot {
+    width: 42px;
+    height: 52px;
+  }
+}

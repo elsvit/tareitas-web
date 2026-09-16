@@ -6,7 +6,11 @@ import React from 'react';
 import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom';
 
 import { SiteLayout } from '~/components/blocks';
-import { HomePage, PrivacyPolicyPage } from '~/components/pages';
+import {
+  DeleteAccountPage,
+  HomePage,
+  PrivacyPolicyPage,
+} from '~/components/pages';
 import { ROUTES } from '~/constants';
 
 const AppRouter = () => (
@@ -17,6 +21,10 @@ const AppRouter = () => (
         <Route
           path={ROUTES.PRIVACY_POLICY}
           element={<PrivacyPolicyPage />}
+        />
+        <Route
+          path={ROUTES.DELETE_ACCOUNT}
+          element={<DeleteAccountPage />}
         />
         <Route path="*" element={<Navigate to={ROUTES.HOME} replace />} />
       </Routes>

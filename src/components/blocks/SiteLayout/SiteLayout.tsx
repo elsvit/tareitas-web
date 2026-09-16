@@ -18,6 +18,7 @@ export const SiteLayout = ({ children }: Props) => (
         </Link>
         <nav className="site-layout__nav">
           <Link to={ROUTES.PRIVACY_POLICY}>Privacy Policy</Link>
+          <Link to={ROUTES.DELETE_ACCOUNT}>Delete Account</Link>
         </nav>
       </div>
     </header>
@@ -29,7 +30,10 @@ export const SiteLayout = ({ children }: Props) => (
     <footer className="site-layout__footer">
       <div className="site-layout__inner">
         <span>© {new Date().getFullYear()} Tareitas</span>
-        <Link to={ROUTES.PRIVACY_POLICY}>Privacy Policy</Link>
+        <div className="site-layout__footer-links">
+          <Link to={ROUTES.PRIVACY_POLICY}>Privacy Policy</Link>
+          <Link to={ROUTES.DELETE_ACCOUNT}>Delete Account</Link>
+        </div>
       </div>
     </footer>
   </div>
