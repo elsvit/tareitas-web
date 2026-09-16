@@ -17,7 +17,14 @@ jobs:
           script: |
             set -e
 
-            cd /var/www/tareitas-web
+            APP_DIR=/var/www/tareitas-web
+
+            if [[ ! -d "$APP_DIR/.git" ]]; then
+              echo "Missing $APP_DIR — run scripts/bootstrap-hetzner.sh on the server first."
+              exit 1
+            fi
+
+            cd "$APP_DIR"
 
             echo "Pulling latest main..."
             git fetch origin main
@@ -28,5 +35,11 @@ jobs:
 
             echo "Building website..."
             yarn build
+
+            if command -v nginx >/dev/null 2>&1; then
+              echo "Testing nginx config..."
+              nginx -t
+              systemctl reload nginx
+            fi
 
             echo "Deployment complete!"

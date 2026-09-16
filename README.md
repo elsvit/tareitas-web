@@ -46,15 +46,21 @@ Output: `dist/`
 
 ## Deploy (Hetzner)
 
-1. Clone repo to `/var/www/tareitas-web`
-2. `yarn install --frozen-lockfile && yarn build`
-3. Point nginx `tareitas.net` root to `/var/www/tareitas-web/dist`
+### One-time server setup
 
-Example nginx:
+SSH to Hetzner as root, then:
+
+```bash
+git clone https://github.com/elsvit/tareitas-web.git /var/www/tareitas-web
+cd /var/www/tareitas-web
+bash scripts/bootstrap-hetzner.sh
+```
+
+Configure nginx (example):
 
 ```nginx
 server {
-  server_name tareitas.net www.tareitas.net;
+  server_name tareitas.net www.tareitas.net tareitas.com www.tareitas.com;
   root /var/www/tareitas-web/dist;
   index index.html;
 
@@ -64,7 +70,19 @@ server {
 }
 ```
 
-Or run the GitHub Action **Deploy production** (workflow_dispatch).
+```bash
+nginx -t && systemctl reload nginx
+```
+
+### GitHub Actions
+
+1. In the **tareitas-web** GitHub repo: **Settings → Secrets → Actions**
+2. Add secret `DEPLOY_SSH_KEY` (same private key as `tareitas-server` deploy)
+3. Push to `main`, then run **Actions → Deploy production → Run workflow**
+
+The workflow pulls `main` on the server, runs `yarn build`, and reloads nginx.
+
+Production builds use `.env.production` (`VITE_API_URL=https://api.tareitas.net`).
 
 ## Project structure
 
