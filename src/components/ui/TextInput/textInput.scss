@@ -1,0 +1,35 @@
+@use 'styles/variables' as *;
+
+.ui-text-input {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.ui-text-input__label {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: $gray-700;
+}
+
+.ui-text-input__field {
+  width: 100%;
+  min-height: 44px;
+  padding: 10px 14px;
+  border: 1px solid $gray-200;
+  border-radius: 8px;
+  font-size: 1rem;
+  color: $gray-900;
+  background: $white;
+
+  &:focus {
+    outline: none;
+    border-color: $blue-500;
+    box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.15);
+  }
+
+  &:disabled {
+    background: $gray-50;
+    color: $gray-500;
+  }
+}

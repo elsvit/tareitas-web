@@ -3,13 +3,15 @@ import createSagaMiddleware from 'redux-saga';
 import { all } from 'redux-saga/effects';
 
 import { commonSlice } from './common/slice';
+import deleteAccountSagas from './deleteAccount/sagas';
+import { deleteAccountSlice } from './deleteAccount/slice';
 import { EStateName } from './enums';
 import settingsSagas from './settings/sagas';
 import { settingsSlice } from './settings/slice';
 import type { IState } from './types';
 
 function* rootSaga() {
-  yield all([...settingsSagas]);
+  yield all([...settingsSagas, ...deleteAccountSagas]);
 }
 
 const sagaMiddleware = createSagaMiddleware();
@@ -27,6 +29,7 @@ function configureAppStore() {
     reducer: combineReducers({
       [EStateName.common]: commonSlice.reducer,
       [EStateName.settings]: settingsSlice.reducer,
+      [EStateName.deleteAccount]: deleteAccountSlice.reducer,
     }),
     middleware: getDefaultMiddleware =>
       getDefaultMiddleware({

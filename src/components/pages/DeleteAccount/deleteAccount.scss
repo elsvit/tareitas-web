@@ -1,0 +1,99 @@
+@use 'styles/variables' as *;
+
+.delete-account-page {
+  max-width: $maxContentWidth;
+  margin: 0 auto;
+  background: $white;
+  border: 1px solid $gray-200;
+  border-radius: 12px;
+  padding: 40px 32px;
+}
+
+.delete-account-page h1 {
+  margin: 0 0 16px;
+  font-size: 1.8rem;
+  color: $gray-900;
+  line-height: 1.3;
+}
+
+.delete-account-page__lead {
+  margin: 0 0 24px;
+  color: $gray-700;
+  font-size: 1.05rem;
+}
+
+.delete-account-page__info {
+  margin: -12px 0 24px;
+  color: $gray-500;
+}
+
+.delete-account-page__form {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.delete-account-page__pin {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.delete-account-page__pin-label {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: $gray-700;
+}
+
+.delete-account-page__warning {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-bottom: 28px;
+  padding: 20px;
+  border-radius: 10px;
+  background: #fef2f2;
+  border: 1px solid #fecaca;
+  color: #7f1d1d;
+  line-height: 1.6;
+}
+
+.delete-account-page__success {
+  padding: 20px;
+  border-radius: 10px;
+  background: #ecfdf5;
+  border: 1px solid #a7f3d0;
+  color: #065f46;
+  line-height: 1.6;
+}
+
+.delete-account-page__error {
+  margin: 0;
+  color: #b91c1c;
+  font-size: 0.95rem;
+}
+
+.delete-account-page__actions {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.delete-account-page__actions--split {
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 560px) {
+  .delete-account-page {
+    padding: 28px 20px;
+  }
+
+  .delete-account-page__actions--split {
+    flex-direction: column-reverse;
+  }
+
+  .delete-account-page__actions--split .ui-button {
+    width: 100%;
+  }
+}

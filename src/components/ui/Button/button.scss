@@ -1,0 +1,39 @@
+@use 'styles/variables' as *;
+
+.ui-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  padding: 0 20px;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: opacity 0.15s ease;
+
+  &:disabled {
+    opacity: 0.55;
+    cursor: not-allowed;
+  }
+
+  &:not(:disabled):hover {
+    opacity: 0.92;
+  }
+}
+
+.ui-button--primary {
+  background: $blue-600;
+  color: $white;
+}
+
+.ui-button--secondary {
+  background: $gray-200;
+  color: $gray-900;
+}
+
+.ui-button--danger {
+  background: #dc2626;
+  color: $white;
+}
