@@ -1,0 +1,58 @@
+{
+  "nav": {
+    "helpCenter": "Centru de ajutor",
+    "privacyPolicy": "Politica de confidențialitate",
+    "deleteAccount": "Șterge contul",
+    "menu": "Meniu"
+  },
+  "home": {
+    "lead": "O aplicație de familie pentru gestionarea sarcinilor zilnice, rutinelor, stelelor și recompenselor."
+  },
+  "helpCenter": {
+    "title": "Centru de ajutor",
+    "lead": "Alegeți un subiect ca să învățați cum să folosiți Tareitas.",
+    "loginSignup": "Descrierea autentificării / înregistrării"
+  },
+  "loginSignup": {
+    "title": "Descrierea autentificării / înregistrării",
+    "initialAlt": "Ecranul Autentificare / Înregistrare cu cele trei opțiuni de configurare",
+    "threeOptions": "Pe ecranul Autentificare / Înregistrare aveți trei opțiuni:",
+    "createTitle": "1. Creați un grup/o familie nouă",
+    "createP1": "Această opțiune se află în partea de jos a ecranului Autentificare / Înregistrare.",
+    "createP2": "Recomandăm să selectați „Mai multe dispozitive” și să atingeți Următorul.",
+    "createP3": "Apoi, ca administrator, introduceți adresa de e-mail și un PIN din 4 cifre. Pentru copil, introduceți un nume de autentificare (de exemplu, numecopil1). Numele de autentificare trebuie să fie unic.",
+    "createAlt": "Crearea unui grup sau a unei familii noi pe ecranul Autentificare / Înregistrare, cu Mai multe dispozitive selectat",
+    "joinTitle": "2. Autentificați-vă (conectați-vă) la un grup/o familie existent(ă)",
+    "joinP1": "De exemplu, sunteți bunica, iar fiica vă cere ajutor ca să gestionați treburile nepotului.",
+    "joinP2": "Vă puteți conecta la mai multe grupuri/familii diferite.",
+    "joinAlt": "Conectare la un grup sau o familie existent(ă) cu e-mail și PIN",
+    "deviceTitle": "3. Autentificați-vă într-o familie creată doar pe acest dispozitiv",
+    "deviceP1": "Dacă ați creat anterior o familie stocată doar pe acest dispozitiv, vă puteți autentifica în acea familie.",
+    "deviceP2": "Totuși, recomandăm „Mai multe dispozitive”, deoarece această opțiune este mai flexibilă și nu depinde de un singur dispozitiv.",
+    "deviceAlt": "Autentificare într-o familie stocată doar pe acest dispozitiv",
+    "contact": "Dacă aveți alte întrebări, contactați-ne:"
+  },
+  "deleteAccount": {
+    "title": "Ștergeți-vă contul Tareitas",
+    "titleWithFamily": "Ștergeți grupul/familia Tareitas {familyName}",
+    "lead": "Introduceți adresa de e-mail asociată contului Tareitas și codul PIN.",
+    "email": "E-mail",
+    "pin": "Cod PIN",
+    "sendCode": "Trimiteți codul de verificare",
+    "enterCode": "Introduceți codul de verificare",
+    "codeSent": "Am trimis un cod de verificare la {email}.",
+    "back": "Înapoi",
+    "verify": "Verificați și continuați",
+    "confirmTitle": "Ștergeți contul Tareitas?",
+    "warning": "Aceasta va șterge definitiv contul Tareitas și datele (toți copiii, părinții, administratorul, imaginile asociate, utilizatorii, sarcinile, recompensele), inclusiv profilurile copiilor, treburile, recompensele, imaginile și istoricul.",
+    "cannotUndo": "Această acțiune nu poate fi anulată.",
+    "cancel": "Anulați",
+    "delete": "Ștergeți-mi contul",
+    "completeTitle": "Ștergerea contului a fost solicitată",
+    "completeBody": "Contul Tareitas și datele asociate au fost șterse."
+  },
+  "language": {
+    "title": "Limbă",
+    "close": "Închide"
+  }
+}

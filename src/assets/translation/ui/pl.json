@@ -1,0 +1,58 @@
+{
+  "nav": {
+    "helpCenter": "Centrum pomocy",
+    "privacyPolicy": "Polityka prywatności",
+    "deleteAccount": "Usuń konto",
+    "menu": "Menu"
+  },
+  "home": {
+    "lead": "Aplikacja rodzinna do zarządzania codziennymi zadaniami, rutynami, gwiazdkami i nagrodami."
+  },
+  "helpCenter": {
+    "title": "Centrum pomocy",
+    "lead": "Wybierz temat, aby dowiedzieć się, jak korzystać z Tareitas.",
+    "loginSignup": "Opis logowania / rejestracji"
+  },
+  "loginSignup": {
+    "title": "Opis logowania / rejestracji",
+    "initialAlt": "Ekran Logowanie / Rejestracja z trzema opcjami konfiguracji",
+    "threeOptions": "Na ekranie Logowanie / Rejestracja masz trzy opcje:",
+    "createTitle": "1. Utwórz nową grupę/rodzinę",
+    "createP1": "Ta opcja znajduje się na dole ekranu Logowanie / Rejestracja.",
+    "createP2": "Zalecamy wybranie „Wiele urządzeń” i stuknięcie Dalej.",
+    "createP3": "Następnie jako administrator wpisz swój adres e-mail i 4-cyfrowy PIN. Dla dziecka wpisz nazwę logowania (na przykład imiedziecka1). Nazwa logowania musi być unikalna.",
+    "createAlt": "Tworzenie nowej grupy lub rodziny na ekranie Logowanie / Rejestracja, z wybraną opcją Wiele urządzeń",
+    "joinTitle": "2. Zaloguj się (połącz) z istniejącą grupą/rodziną",
+    "joinP1": "Na przykład jesteś babcią, a córka prosi Cię o pomoc w zarządzaniu obowiązkami wnuka.",
+    "joinP2": "Możesz połączyć się z wieloma różnymi grupami/rodzinami.",
+    "joinAlt": "Połączenie z istniejącą grupą lub rodziną za pomocą e-maila i kodu PIN",
+    "deviceTitle": "3. Zaloguj się do rodziny utworzonej tylko na tym urządzeniu",
+    "deviceP1": "Jeśli wcześniej utworzyłaś rodzinę zapisaną tylko na tym urządzeniu, możesz się do niej zalogować.",
+    "deviceP2": "Zalecamy jednak „Wiele urządzeń”, bo ta opcja jest bardziej elastyczna i nie zależy od jednego urządzenia.",
+    "deviceAlt": "Logowanie do rodziny zapisanej tylko na tym urządzeniu",
+    "contact": "Jeśli masz dodatkowe pytania, skontaktuj się z nami:"
+  },
+  "deleteAccount": {
+    "title": "Usuń swoje konto Tareitas",
+    "titleWithFamily": "Usuń swoją grupę/rodzinę Tareitas {familyName}",
+    "lead": "Wpisz adres e-mail powiązany z kontem Tareitas oraz kod PIN.",
+    "email": "E-mail",
+    "pin": "Kod PIN",
+    "sendCode": "Wyślij kod weryfikacyjny",
+    "enterCode": "Wpisz kod weryfikacyjny",
+    "codeSent": "Wysłaliśmy kod weryfikacyjny na {email}.",
+    "back": "Wstecz",
+    "verify": "Zweryfikuj i kontynuuj",
+    "confirmTitle": "Usunąć konto Tareitas?",
+    "warning": "Spowoduje to trwałe usunięcie konta Tareitas i danych (wszystkich dzieci, rodziców, administratora, powiązanych obrazów, użytkowników, zadań, nagród), w tym profili dzieci, obowiązków, nagród, obrazów i historii.",
+    "cannotUndo": "Tej czynności nie można cofnąć.",
+    "cancel": "Anuluj",
+    "delete": "Usuń moje konto",
+    "completeTitle": "Zażądano usunięcia konta",
+    "completeBody": "Twoje konto Tareitas i powiązane dane zostały usunięte."
+  },
+  "language": {
+    "title": "Język",
+    "close": "Zamknij"
+  }
+}

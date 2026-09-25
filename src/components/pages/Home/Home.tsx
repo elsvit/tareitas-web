@@ -1,21 +1,28 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
+import { useUi, withSearch } from '~/assets/translation';
 import { ROUTES } from '~/constants';
 
 import './home.scss';
 
-const Home = () => (
-  <div className="home-page">
-    <h1>Tareitas</h1>
-    <p className="home-page__lead">
-      A family app to manage daily tasks, routines, stars, and rewards.
-    </p>
-    <div className="home-page__links">
-      <Link to={ROUTES.HELP_CENTER}>Help Center</Link>
-      <Link to={ROUTES.PRIVACY_POLICY}>Privacy Policy</Link>
+const Home = () => {
+  const { ui, searchParams } = useUi();
+
+  return (
+    <div className="home-page">
+      <h1>Tareitas</h1>
+      <p className="home-page__lead">{ui.home.lead}</p>
+      <div className="home-page__links">
+        <Link to={withSearch(ROUTES.HELP_CENTER, searchParams)}>
+          {ui.nav.helpCenter}
+        </Link>
+        <Link to={withSearch(ROUTES.PRIVACY_POLICY, searchParams)}>
+          {ui.nav.privacyPolicy}
+        </Link>
+      </div>
     </div>
-  </div>
-);
+  );
+};
 
 export default Home;

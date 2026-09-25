@@ -1,0 +1,58 @@
+{
+  "nav": {
+    "helpCenter": "Súgóközpont",
+    "privacyPolicy": "Adatvédelmi irányelv",
+    "deleteAccount": "Fiók törlése",
+    "menu": "Menü"
+  },
+  "home": {
+    "lead": "Családi alkalmazás a napi feladatok, rutinok, csillagok és jutalmak kezeléséhez."
+  },
+  "helpCenter": {
+    "title": "Súgóközpont",
+    "lead": "Válasszon egy témát, és tudja meg, hogyan használhatja a Tareitas alkalmazást.",
+    "loginSignup": "Bejelentkezés / regisztráció leírása"
+  },
+  "loginSignup": {
+    "title": "Bejelentkezés / regisztráció leírása",
+    "initialAlt": "Bejelentkezés / Regisztráció képernyő a három beállítási lehetőséggel",
+    "threeOptions": "A Bejelentkezés / Regisztráció képernyőn három lehetősége van:",
+    "createTitle": "1. Új csoport/család létrehozása",
+    "createP1": "Ez a lehetőség a Bejelentkezés / Regisztráció képernyő alján található.",
+    "createP2": "Azt javasoljuk, hogy válassza a „Több eszköz” lehetőséget, majd koppintson a Tovább gombra.",
+    "createP3": "Ezután rendszergazdaként adja meg az e-mail-címét és egy 4 számjegyű PIN-kódot. A gyermekhez adjon meg egy bejelentkezési nevet (például gyereknev1). A bejelentkezési névnek egyedinek kell lennie.",
+    "createAlt": "Új csoport vagy család létrehozása a Bejelentkezés / Regisztráció képernyőn, a Több eszköz lehetőség kiválasztásával",
+    "joinTitle": "2. Bejelentkezés (csatlakozás) egy meglévő csoporthoz/családhoz",
+    "joinP1": "Például Ön a nagymama, és a lánya megkéri, hogy segítsen az unokája feladatait kezelni.",
+    "joinP2": "Több különböző csoporthoz/családhoz is csatlakozhat.",
+    "joinAlt": "Csatlakozás meglévő csoporthoz vagy családhoz e-mail-címmel és PIN-kóddal",
+    "deviceTitle": "3. Bejelentkezés egy csak ezen az eszközön létrehozott családba",
+    "deviceP1": "Ha korábban létrehozott egy családot, amely csak ezen az eszközön van tárolva, bejelentkezhet abba a családba.",
+    "deviceP2": "Mégis a „Több eszköz” lehetőséget javasoljuk, mert ez rugalmasabb, és nem függ egyetlen eszköztől.",
+    "deviceAlt": "Bejelentkezés egy csak ezen az eszközön tárolt családba",
+    "contact": "További kérdéseivel forduljon hozzánk:"
+  },
+  "deleteAccount": {
+    "title": "Tareitas-fiók törlése",
+    "titleWithFamily": "A(z) {familyName} Tareitas csoport/család törlése",
+    "lead": "Adja meg a Tareitas-fiókjához tartozó e-mail-címet és a PIN-kódot.",
+    "email": "E-mail",
+    "pin": "PIN-kód",
+    "sendCode": "Ellenőrző kód küldése",
+    "enterCode": "Adja meg az ellenőrző kódot",
+    "codeSent": "Ellenőrző kódot küldtünk ide: {email}.",
+    "back": "Vissza",
+    "verify": "Ellenőrzés és folytatás",
+    "confirmTitle": "Törli a Tareitas-fiókját?",
+    "warning": "Ezzel véglegesen törli a Tareitas-fiókját és az adatait (minden gyermek, szülő, adminisztrátor, kapcsolódó képek, felhasználók, feladatok, jutalmak), beleértve a gyermekprofilokat, a feladatokat, a jutalmakat, a képeket és az előzményeket.",
+    "cannotUndo": "Ez a művelet nem vonható vissza.",
+    "cancel": "Mégse",
+    "delete": "Fiókom törlése",
+    "completeTitle": "Fióktörlés kérve",
+    "completeBody": "A Tareitas-fiókja és a kapcsolódó adatok törölve lettek."
+  },
+  "language": {
+    "title": "Nyelv",
+    "close": "Bezárás"
+  }
+}

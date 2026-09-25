@@ -1,0 +1,58 @@
+{
+  "nav": {
+    "helpCenter": "Centro de ajuda",
+    "privacyPolicy": "Política de Privacidade",
+    "deleteAccount": "Eliminar conta",
+    "menu": "Menu"
+  },
+  "home": {
+    "lead": "Uma aplicação familiar para gerir tarefas diárias, rotinas, estrelas e recompensas."
+  },
+  "helpCenter": {
+    "title": "Centro de ajuda",
+    "lead": "Escolha um tópico para aprender a usar o Tareitas.",
+    "loginSignup": "Descrição de início de sessão / registo"
+  },
+  "loginSignup": {
+    "title": "Descrição de início de sessão / registo",
+    "initialAlt": "Ecrã Início de sessão / Registo com as três opções de configuração",
+    "threeOptions": "No ecrã Início de sessão / Registo tem três opções:",
+    "createTitle": "1. Criar um novo grupo/família",
+    "createP1": "Esta opção está na parte inferior do ecrã Início de sessão / Registo.",
+    "createP2": "Recomendamos selecionar “Vários dispositivos” e tocar em Seguinte.",
+    "createP3": "Depois, como administrador, introduza o seu e-mail e um PIN de 4 dígitos. Para a criança, introduza um nome de início de sessão (por exemplo, nomecrianca1). O nome de início de sessão deve ser único.",
+    "createAlt": "Criar um novo grupo ou família no ecrã Início de sessão / Registo, com Vários dispositivos selecionado",
+    "joinTitle": "2. Iniciar sessão (ligar-se) a um grupo/família existente",
+    "joinP1": "Por exemplo, é a avó e a sua filha pede-lhe ajuda para gerir as tarefas do seu neto.",
+    "joinP2": "Pode ligar-se a vários grupos/famílias diferentes.",
+    "joinAlt": "Ligar-se a um grupo ou família existente com e-mail e PIN",
+    "deviceTitle": "3. Iniciar sessão numa família criada apenas neste dispositivo",
+    "deviceP1": "Se criou anteriormente uma família guardada apenas neste dispositivo, pode iniciar sessão nessa família.",
+    "deviceP2": "Ainda assim, recomendamos “Vários dispositivos”, porque esta opção é mais flexível e não depende de um único dispositivo.",
+    "deviceAlt": "Iniciar sessão numa família guardada apenas neste dispositivo",
+    "contact": "Se tiver mais perguntas, contacte-nos:"
+  },
+  "deleteAccount": {
+    "title": "Eliminar a sua conta Tareitas",
+    "titleWithFamily": "Eliminar o seu grupo/família Tareitas {familyName}",
+    "lead": "Introduza o e-mail associado à sua conta Tareitas e o código PIN.",
+    "email": "E-mail",
+    "pin": "Código PIN",
+    "sendCode": "Enviar código de verificação",
+    "enterCode": "Introduza o código de verificação",
+    "codeSent": "Enviámos um código de verificação para {email}.",
+    "back": "Voltar",
+    "verify": "Verificar e continuar",
+    "confirmTitle": "Eliminar a sua conta Tareitas?",
+    "warning": "Isto eliminará permanentemente a sua conta Tareitas e os dados (todas as crianças, pais, administrador, imagens associadas, utilizadores, tarefas, recompensas), incluindo os perfis das crianças, as tarefas, as recompensas, as imagens e o histórico.",
+    "cannotUndo": "Esta ação não pode ser anulada.",
+    "cancel": "Cancelar",
+    "delete": "Eliminar a minha conta",
+    "completeTitle": "Eliminação de conta pedida",
+    "completeBody": "A sua conta Tareitas e os dados associados foram eliminados."
+  },
+  "language": {
+    "title": "Idioma",
+    "close": "Fechar"
+  }
+}

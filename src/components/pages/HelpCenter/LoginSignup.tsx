@@ -1,82 +1,79 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
+import { useUi, withSearch } from '~/assets/translation';
 import { ROUTES } from '~/constants';
+
+import { getLoginSignupImages } from './loginSignupImages';
 
 import './helpCenter.scss';
 
-const LoginSignup = () => (
-  <article className="help-center-page">
-    <header className="help-center-page__header">
-      <p className="help-center-page__eyebrow">
-        <Link to={ROUTES.HELP_CENTER}>Help Center</Link>
-      </p>
-      <h1>Login / Signup description</h1>
-    </header>
+const LoginSignup = () => {
+  const { lang, ui, searchParams } = useUi();
+  const images = getLoginSignupImages(lang);
+  const copy = ui.loginSignup;
 
-    <p className="help-center-page__lead">
-      On the Mode screen, after selecting your configuration, tap the “?”
-      icon to open a help window with the following information:
-    </p>
+  return (
+    <article className="help-center-page">
+      <header className="help-center-page__header">
+        <p className="help-center-page__eyebrow">
+          <Link to={withSearch(ROUTES.HELP_CENTER, searchParams)}>
+            {ui.nav.helpCenter}
+          </Link>
+        </p>
+        <h1>{copy.title}</h1>
+      </header>
 
-    <p>On the Mode screen, you have three options:</p>
-
-    <section className="help-center-page__option" id="create-group">
-      <h2>1. Create a new group/family</h2>
-      <p>This option is at the bottom of the Mode screen.</p>
-      <p>
-        We recommend selecting “Different devices” and tapping Next.
-      </p>
-      <p>
-        Then, as the Admin, enter your email address and a 4-digit PIN. For
-        the child, enter a login name (for example, childname1). The login
-        name must be unique.
-      </p>
       <img
         className="help-center-page__image"
-        src="/images/signup.png"
-        alt="Create a new group or family on the Mode screen, with Several devices selected"
+        src={images.initial}
+        alt={copy.initialAlt}
       />
-    </section>
 
-    <section className="help-center-page__option" id="join-group">
-      <h2>2. Log in to (connect to) an existing group/family</h2>
-      <p>
-        For example, you are a grandmother and your daughter asks you to
-        help manage your grandchild’s chores.
-      </p>
-      <p>You can connect to multiple different groups/families.</p>
-      <img
-        className="help-center-page__image"
-        src="/images/signin_multidevices.png"
-        alt="Connect to an existing group or family with email and PIN"
-      />
-    </section>
+      <p>{copy.threeOptions}</p>
 
-    <section className="help-center-page__option" id="this-device">
-      <h2>3. Log in to a family created only on this device</h2>
-      <p>
-        If you previously created a family that is stored only on this
-        device, you can log in to that family.
-      </p>
-      <p>
-        However, we recommend selecting “Different devices”, as this option
-        is more flexible and does not depend on a single device.
-      </p>
-      <img
-        className="help-center-page__image"
-        src="/images/signin_onlydevice.png"
-        alt="Log in to a family stored only on this device"
-      />
-    </section>
+      <section className="help-center-page__option" id="create-group">
+        <h2>{copy.createTitle}</h2>
+        <p>{copy.createP1}</p>
+        <p>{copy.createP2}</p>
+        <p>{copy.createP3}</p>
+        <img
+          className="help-center-page__image"
+          src={images.signup}
+          alt={copy.createAlt}
+        />
+      </section>
 
-    <section className="help-center-page__contact">
-      <p>If you have any additional questions, please contact us:</p>
-      <p>
-        <a href="mailto:tarecitas@gmail.com">tarecitas@gmail.com</a>
-      </p>
-    </section>
-  </article>
-);
+      <section className="help-center-page__option" id="join-group">
+        <h2>{copy.joinTitle}</h2>
+        <p>{copy.joinP1}</p>
+        <p>{copy.joinP2}</p>
+        <img
+          className="help-center-page__image"
+          src={images.signinMultidevices}
+          alt={copy.joinAlt}
+        />
+      </section>
+
+      <section className="help-center-page__option" id="this-device">
+        <h2>{copy.deviceTitle}</h2>
+        <p>{copy.deviceP1}</p>
+        <p>{copy.deviceP2}</p>
+        <img
+          className="help-center-page__image"
+          src={images.signinOnlyDevice}
+          alt={copy.deviceAlt}
+        />
+      </section>
+
+      <section className="help-center-page__contact">
+        <p>{copy.contact}</p>
+        <p>
+          <a href="mailto:tarecitas@gmail.com">tarecitas@gmail.com</a>
+        </p>
+      </section>
+    </article>
+  );
+};
 
 export default LoginSignup;

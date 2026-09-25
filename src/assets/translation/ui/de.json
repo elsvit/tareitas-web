@@ -1,0 +1,58 @@
+{
+  "nav": {
+    "helpCenter": "Hilfezentrum",
+    "privacyPolicy": "Datenschutzerklärung",
+    "deleteAccount": "Konto löschen",
+    "menu": "Menü"
+  },
+  "home": {
+    "lead": "Eine Familien-App für tägliche Aufgaben, Routinen, Sterne und Belohnungen."
+  },
+  "helpCenter": {
+    "title": "Hilfezentrum",
+    "lead": "Wähle ein Thema, um zu erfahren, wie du Tareitas verwendest.",
+    "loginSignup": "Beschreibung von Anmeldung / Registrierung"
+  },
+  "loginSignup": {
+    "title": "Beschreibung von Anmeldung / Registrierung",
+    "initialAlt": "Anmelde-/Registrierungsbildschirm mit den drei Einrichtungsoptionen",
+    "threeOptions": "Auf dem Anmelde-/Registrierungsbildschirm hast du drei Optionen:",
+    "createTitle": "1. Eine neue Gruppe/Familie erstellen",
+    "createP1": "Diese Option befindet sich unten auf dem Anmelde-/Registrierungsbildschirm.",
+    "createP2": "Wir empfehlen, „Mehrere Geräte“ auszuwählen und auf Weiter zu tippen.",
+    "createP3": "Gib dann als Admin deine E-Mail-Adresse und eine 4-stellige PIN ein. Für das Kind gib einen Anmeldenamen ein (zum Beispiel kindname1). Der Anmeldename muss eindeutig sein.",
+    "createAlt": "Eine neue Gruppe oder Familie auf dem Anmelde-/Registrierungsbildschirm erstellen, mit Mehrere Geräte ausgewählt",
+    "joinTitle": "2. Bei einer bestehenden Gruppe/Familie anmelden (verbinden)",
+    "joinP1": "Zum Beispiel bist du die Großmutter und deine Tochter bittet dich, bei den Aufgaben deines Enkelkindes zu helfen.",
+    "joinP2": "Du kannst dich mit mehreren verschiedenen Gruppen/Familien verbinden.",
+    "joinAlt": "Mit einer bestehenden Gruppe oder Familie per E-Mail und PIN verbinden",
+    "deviceTitle": "3. Bei einer nur auf diesem Gerät erstellten Familie anmelden",
+    "deviceP1": "Wenn du zuvor eine Familie erstellt hast, die nur auf diesem Gerät gespeichert ist, kannst du dich bei dieser Familie anmelden.",
+    "deviceP2": "Wir empfehlen jedoch „Mehrere Geräte“, weil diese Option flexibler ist und nicht von einem einzelnen Gerät abhängt.",
+    "deviceAlt": "Bei einer nur auf diesem Gerät gespeicherten Familie anmelden",
+    "contact": "Wenn du weitere Fragen hast, kontaktiere uns:"
+  },
+  "deleteAccount": {
+    "title": "Dein Tareitas-Konto löschen",
+    "titleWithFamily": "Deine Tareitas-Gruppe/Familie {familyName} löschen",
+    "lead": "Gib die E-Mail-Adresse deines Tareitas-Kontos und den PIN-Code ein.",
+    "email": "E-Mail",
+    "pin": "PIN-Code",
+    "sendCode": "Bestätigungscode senden",
+    "enterCode": "Bestätigungscode eingeben",
+    "codeSent": "Wir haben einen Bestätigungscode an {email} gesendet.",
+    "back": "Zurück",
+    "verify": "Bestätigen und fortfahren",
+    "confirmTitle": "Dein Tareitas-Konto löschen?",
+    "warning": "Dadurch werden dein Tareitas-Konto und deine Daten dauerhaft gelöscht (alle Kinder, Eltern, Admins, zugehörige Bilder, Benutzer, Aufgaben, Belohnungen), einschließlich der Kinderprofile, Aufgaben, Belohnungen, Bilder und des Verlaufs.",
+    "cannotUndo": "Diese Aktion kann nicht rückgängig gemacht werden.",
+    "cancel": "Abbrechen",
+    "delete": "Mein Konto löschen",
+    "completeTitle": "Kontolöschung angefordert",
+    "completeBody": "Dein Tareitas-Konto und die zugehörigen Daten wurden gelöscht."
+  },
+  "language": {
+    "title": "Sprache",
+    "close": "Schließen"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "nav": {
+    "helpCenter": "Palīdzības centrs",
+    "privacyPolicy": "Privātuma politika",
+    "deleteAccount": "Dzēst kontu",
+    "menu": "Izvēlne"
+  },
+  "home": {
+    "lead": "Ģimenes lietotne ikdienas uzdevumu, rutīnu, zvaigznīšu un balvu pārvaldībai."
+  },
+  "helpCenter": {
+    "title": "Palīdzības centrs",
+    "lead": "Izvēlieties tēmu, lai uzzinātu, kā lietot Tareitas.",
+    "loginSignup": "Pieteikšanās / reģistrācijas apraksts"
+  },
+  "loginSignup": {
+    "title": "Pieteikšanās / reģistrācijas apraksts",
+    "initialAlt": "Pieteikšanās / reģistrācijas ekrāns ar trim iestatīšanas opcijām",
+    "threeOptions": "Pieteikšanās / reģistrācijas ekrānā jums ir trīs opcijas:",
+    "createTitle": "1. Izveidot jaunu grupu/ģimeni",
+    "createP1": "Šī opcija atrodas pieteikšanās / reģistrācijas ekrāna apakšā.",
+    "createP2": "Iesakām atlasīt “Vairākas ierīces” un pieskarties Tālāk.",
+    "createP3": "Pēc tam kā administrators ievadiet e-pasta adresi un 4 ciparu PIN. Bērnam ievadiet pieteikšanās vārdu (piemēram, bernavards1). Pieteikšanās vārdam jābūt unikālam.",
+    "createAlt": "Jaunas grupas vai ģimenes izveide pieteikšanās / reģistrācijas ekrānā ar atlasītu Vairākas ierīces",
+    "joinTitle": "2. Pieteikties (savienoties) ar esošu grupu/ģimeni",
+    "joinP1": "Piemēram, jūs esat vecmāmiņa, un meita lūdz palīdzēt pārvaldīt mazbērna darbus.",
+    "joinP2": "Varat savienoties ar vairākām dažādām grupām/ģimenēm.",
+    "joinAlt": "Savienojums ar esošu grupu vai ģimeni, izmantojot e-pastu un PIN",
+    "deviceTitle": "3. Pieteikties ģimenē, kas izveidota tikai šajā ierīcē",
+    "deviceP1": "Ja iepriekš izveidojāt ģimeni, kas saglabāta tikai šajā ierīcē, varat tajā pieteikties.",
+    "deviceP2": "Tomēr iesakām “Vairākas ierīces”, jo šī opcija ir elastīgāka un nav atkarīga no vienas ierīces.",
+    "deviceAlt": "Pieteikšanās ģimenē, kas saglabāta tikai šajā ierīcē",
+    "contact": "Ja jums ir papildu jautājumi, sazinieties ar mums:"
+  },
+  "deleteAccount": {
+    "title": "Dzēst Tareitas kontu",
+    "titleWithFamily": "Dzēst Tareitas grupu/ģimeni {familyName}",
+    "lead": "Ievadiet ar Tareitas kontu saistīto e-pasta adresi un PIN kodu.",
+    "email": "E-pasts",
+    "pin": "PIN kods",
+    "sendCode": "Nosūtīt verifikācijas kodu",
+    "enterCode": "Ievadiet verifikācijas kodu",
+    "codeSent": "Mēs nosūtījām verifikācijas kodu uz {email}.",
+    "back": "Atpakaļ",
+    "verify": "Verificēt un turpināt",
+    "confirmTitle": "Dzēst Tareitas kontu?",
+    "warning": "Tādējādi neatgriezeniski tiks dzēsts jūsu Tareitas konts un dati (visi bērni, vecāki, administrators, saistītie attēli, lietotāji, uzdevumi, balvas), tostarp bērnu profili, darbi, balvas, attēli un vēsture.",
+    "cannotUndo": "Šo darbību nevar atsaukt.",
+    "cancel": "Atcelt",
+    "delete": "Dzēst manu kontu",
+    "completeTitle": "Pieprasīta konta dzēšana",
+    "completeBody": "Jūsu Tareitas konts un saistītie dati ir dzēsti."
+  },
+  "language": {
+    "title": "Valoda",
+    "close": "Aizvērt"
+  }
+}

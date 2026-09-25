@@ -1,0 +1,58 @@
+{
+  "nav": {
+    "helpCenter": "Hjælpecenter",
+    "privacyPolicy": "Privatlivspolitik",
+    "deleteAccount": "Slet konto",
+    "menu": "Menu"
+  },
+  "home": {
+    "lead": "En familieapp til at styre daglige opgaver, rutiner, stjerner og belønninger."
+  },
+  "helpCenter": {
+    "title": "Hjælpecenter",
+    "lead": "Vælg et emne, og lær, hvordan du bruger Tareitas.",
+    "loginSignup": "Beskrivelse af login / oprettelse"
+  },
+  "loginSignup": {
+    "title": "Beskrivelse af login / oprettelse",
+    "initialAlt": "Login-/oprettelsesskærm med de tre opsætningsmuligheder",
+    "threeOptions": "På login-/oprettelsesskærmen har du tre muligheder:",
+    "createTitle": "1. Opret en ny gruppe/familie",
+    "createP1": "Denne mulighed er nederst på login-/oprettelsesskærmen.",
+    "createP2": "Vi anbefaler, at du vælger “Flere enheder” og trykker på Næste.",
+    "createP3": "Derefter skal du som administrator indtaste din e-mailadresse og en 4-cifret pinkode. Til barnet skal du indtaste et login-navn (for eksempel barnnavn1). Login-navnet skal være unikt.",
+    "createAlt": "Opret en ny gruppe eller familie på login-/oprettelsesskærmen med Flere enheder valgt",
+    "joinTitle": "2. Log ind på (opret forbindelse til) en eksisterende gruppe/familie",
+    "joinP1": "Du er for eksempel bedstemor, og din datter beder dig hjælpe med at styre dit barnebarns opgaver.",
+    "joinP2": "Du kan oprette forbindelse til flere forskellige grupper/familier.",
+    "joinAlt": "Opret forbindelse til en eksisterende gruppe eller familie med e-mail og pinkode",
+    "deviceTitle": "3. Log ind på en familie, der kun er oprettet på denne enhed",
+    "deviceP1": "Hvis du tidligere har oprettet en familie, der kun er gemt på denne enhed, kan du logge ind på den familie.",
+    "deviceP2": "Vi anbefaler dog “Flere enheder”, fordi denne mulighed er mere fleksibel og ikke afhænger af én enhed.",
+    "deviceAlt": "Log ind på en familie, der kun er gemt på denne enhed",
+    "contact": "Hvis du har flere spørgsmål, så kontakt os:"
+  },
+  "deleteAccount": {
+    "title": "Slet din Tareitas-konto",
+    "titleWithFamily": "Slet din Tareitas-gruppe/familie {familyName}",
+    "lead": "Indtast den e-mailadresse, der er knyttet til din Tareitas-konto, og pinkoden.",
+    "email": "E-mail",
+    "pin": "Pinkode",
+    "sendCode": "Send bekræftelseskode",
+    "enterCode": "Indtast bekræftelseskode",
+    "codeSent": "Vi har sendt en bekræftelseskode til {email}.",
+    "back": "Tilbage",
+    "verify": "Bekræft og fortsæt",
+    "confirmTitle": "Slet din Tareitas-konto?",
+    "warning": "Dette sletter permanent din Tareitas-konto og dine data (alle børn, forældre, administrator, tilknyttede billeder, brugere, opgaver, belønninger), herunder børneprofiler, opgaver, belønninger, billeder og historik.",
+    "cannotUndo": "Denne handling kan ikke fortrydes.",
+    "cancel": "Annuller",
+    "delete": "Slet min konto",
+    "completeTitle": "Sletning af konto anmodet",
+    "completeBody": "Din Tareitas-konto og tilknyttede data er blevet slettet."
+  },
+  "language": {
+    "title": "Sprog",
+    "close": "Luk"
+  }
+}

@@ -1,0 +1,118 @@
+@use 'styles/variables' as *;
+
+.language-picker {
+  position: relative;
+}
+
+.language-picker__button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  padding: 0;
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  color: $white;
+  cursor: pointer;
+
+  &:hover,
+  &:focus-visible {
+    background: rgba(255, 255, 255, 0.16);
+  }
+}
+
+.language-picker__modal {
+  position: fixed;
+  inset: 0;
+  z-index: 40;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+.language-picker__backdrop {
+  position: absolute;
+  inset: 0;
+  border: 0;
+  padding: 0;
+  background: rgba(0, 0, 0, 0.45);
+  cursor: pointer;
+}
+
+.language-picker__sheet {
+  position: relative;
+  z-index: 1;
+  width: min(100%, 560px);
+  max-height: 70vh;
+  display: flex;
+  flex-direction: column;
+  background: $white;
+  border-radius: 16px 16px 0 0;
+  box-shadow: 0 -8px 32px rgba(17, 24, 39, 0.16);
+}
+
+.language-picker__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 16px 20px 8px;
+}
+
+.language-picker__header h2 {
+  margin: 0;
+  font-size: 1.15rem;
+  color: $gray-900;
+}
+
+.language-picker__close {
+  width: 36px;
+  height: 36px;
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  color: $gray-500;
+  font-size: 1.6rem;
+  line-height: 1;
+  cursor: pointer;
+
+  &:hover,
+  &:focus-visible {
+    background: $gray-100;
+    color: $gray-900;
+  }
+}
+
+.language-picker__list {
+  margin: 0;
+  padding: 8px 12px 20px;
+  overflow: auto;
+  list-style: none;
+}
+
+.language-picker__option {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 14px 12px;
+  border: 0;
+  border-radius: 10px;
+  background: transparent;
+  color: $gray-900;
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+
+  &:hover,
+  &:focus-visible {
+    background: $gray-100;
+  }
+}
+
+.language-picker__option--selected {
+  color: $blue-600;
+  font-weight: 700;
+}

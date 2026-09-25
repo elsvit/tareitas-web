@@ -1,0 +1,58 @@
+{
+  "nav": {
+    "helpCenter": "Centre d'aide",
+    "privacyPolicy": "Politique de confidentialité",
+    "deleteAccount": "Supprimer le compte",
+    "menu": "Menu"
+  },
+  "home": {
+    "lead": "Une application familiale pour gérer les tâches quotidiennes, les routines, les étoiles et les récompenses."
+  },
+  "helpCenter": {
+    "title": "Centre d'aide",
+    "lead": "Choisissez un sujet pour apprendre à utiliser Tareitas.",
+    "loginSignup": "Description de la connexion / inscription"
+  },
+  "loginSignup": {
+    "title": "Description de la connexion / inscription",
+    "initialAlt": "Écran Connexion / Inscription avec les trois options de configuration",
+    "threeOptions": "Sur l'écran Connexion / Inscription, vous avez trois options :",
+    "createTitle": "1. Créer un nouveau groupe/famille",
+    "createP1": "Cette option se trouve en bas de l'écran Connexion / Inscription.",
+    "createP2": "Nous recommandons de sélectionner « Plusieurs appareils » puis de toucher Suivant.",
+    "createP3": "Ensuite, en tant qu'administrateur, saisissez votre adresse e-mail et un code PIN à 4 chiffres. Pour l'enfant, saisissez un identifiant (par exemple, prenomenfant1). L'identifiant doit être unique.",
+    "createAlt": "Créer un nouveau groupe ou une nouvelle famille sur l'écran Connexion / Inscription, avec Plusieurs appareils sélectionné",
+    "joinTitle": "2. Se connecter à un groupe/famille existant",
+    "joinP1": "Par exemple, vous êtes la grand-mère et votre fille vous demande d'aider à gérer les tâches de votre petit-enfant.",
+    "joinP2": "Vous pouvez vous connecter à plusieurs groupes/familles différents.",
+    "joinAlt": "Se connecter à un groupe ou une famille existant avec e-mail et code PIN",
+    "deviceTitle": "3. Se connecter à une famille créée uniquement sur cet appareil",
+    "deviceP1": "Si vous avez déjà créé une famille enregistrée uniquement sur cet appareil, vous pouvez vous y connecter.",
+    "deviceP2": "Nous recommandons toutefois « Plusieurs appareils », car cette option est plus flexible et ne dépend pas d'un seul appareil.",
+    "deviceAlt": "Se connecter à une famille enregistrée uniquement sur cet appareil",
+    "contact": "Si vous avez d'autres questions, contactez-nous :"
+  },
+  "deleteAccount": {
+    "title": "Supprimer votre compte Tareitas",
+    "titleWithFamily": "Supprimer votre groupe/famille Tareitas {familyName}",
+    "lead": "Saisissez l'adresse e-mail associée à votre compte Tareitas et le code PIN.",
+    "email": "E-mail",
+    "pin": "Code PIN",
+    "sendCode": "Envoyer le code de vérification",
+    "enterCode": "Saisissez le code de vérification",
+    "codeSent": "Nous avons envoyé un code de vérification à {email}.",
+    "back": "Retour",
+    "verify": "Vérifier et continuer",
+    "confirmTitle": "Supprimer votre compte Tareitas ?",
+    "warning": "Cela supprimera définitivement votre compte Tareitas et vos données (tous les enfants, parents, administrateur, images associées, utilisateurs, tâches, récompenses), y compris les profils des enfants, les tâches, les récompenses, les images et l'historique.",
+    "cannotUndo": "Cette action est irréversible.",
+    "cancel": "Annuler",
+    "delete": "Supprimer mon compte",
+    "completeTitle": "Suppression du compte demandée",
+    "completeBody": "Votre compte Tareitas et les données associées ont été supprimés."
+  },
+  "language": {
+    "title": "Langue",
+    "close": "Fermer"
+  }
+}
