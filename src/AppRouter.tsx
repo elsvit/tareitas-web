@@ -8,6 +8,7 @@ import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom';
 import { SiteLayout } from '~/components/blocks';
 import {
   DeleteAccountPage,
+  HelpCenterPage,
   HomePage,
   PrivacyPolicyPage,
 } from '~/components/pages';
@@ -26,6 +27,7 @@ const AppRouter = () => (
           path={ROUTES.DELETE_ACCOUNT}
           element={<DeleteAccountPage />}
         />
+        <Route path={ROUTES.HELP_CENTER} element={<HelpCenterPage />} />
         <Route path="*" element={<Navigate to={ROUTES.HOME} replace />} />
       </Routes>
     </SiteLayout>

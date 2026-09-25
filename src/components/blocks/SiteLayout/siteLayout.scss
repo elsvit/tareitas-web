@@ -23,7 +23,11 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
+  gap: 16px;
   min-height: 64px;
+  flex-wrap: wrap;
+  padding-top: 12px;
+  padding-bottom: 12px;
 }
 
 .site-layout__brand {
@@ -40,6 +44,8 @@
 
 .site-layout__nav {
   display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
   gap: 20px;
 }
 

@@ -41,6 +41,7 @@ Output: `dist/`
 | Path | Page |
 |------|------|
 | `/` | Home |
+| `/help-center` | Help Center |
 | `/privacy-policy` | Privacy Policy |
 | `/delete-account` | Delete account |
 

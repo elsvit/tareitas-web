@@ -12,6 +12,7 @@ const Home = () => (
       A family app to manage daily tasks, routines, stars, and rewards.
     </p>
     <div className="home-page__links">
+      <Link to={ROUTES.HELP_CENTER}>Help Center</Link>
       <Link to={ROUTES.PRIVACY_POLICY}>Privacy Policy</Link>
     </div>
   </div>
