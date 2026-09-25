@@ -1,0 +1,58 @@
+{
+  "nav": {
+    "helpCenter": "Hjälpcenter",
+    "privacyPolicy": "Integritetspolicy",
+    "deleteAccount": "Ta bort konto",
+    "menu": "Meny"
+  },
+  "home": {
+    "lead": "En familjeapp för att hantera dagliga uppgifter, rutiner, stjärnor och belöningar."
+  },
+  "helpCenter": {
+    "title": "Hjälpcenter",
+    "lead": "Välj ett ämne för att lära dig hur du använder Tareitas.",
+    "loginSignup": "Beskrivning av inloggning / registrering"
+  },
+  "loginSignup": {
+    "title": "Beskrivning av inloggning / registrering",
+    "initialAlt": "Inloggnings-/registreringsskärmen med de tre inställningsalternativen",
+    "threeOptions": "På inloggnings-/registreringsskärmen har du tre alternativ:",
+    "createTitle": "1. Skapa en ny grupp/familj",
+    "createP1": "Det här alternativet finns längst ned på inloggnings-/registreringsskärmen.",
+    "createP2": "Vi rekommenderar att du väljer “Flera enheter” och trycker på Nästa.",
+    "createP3": "Sedan anger du som administratör din e-postadress och en fyrsiffrig pinkod. För barnet anger du ett inloggningsnamn (till exempel barnnamn1). Inloggningsnamnet måste vara unikt.",
+    "createAlt": "Skapa en ny grupp eller familj på inloggnings-/registreringsskärmen med Flera enheter valt",
+    "joinTitle": "2. Logga in på (anslut till) en befintlig grupp/familj",
+    "joinP1": "Du är till exempel mormor och din dotter ber dig hjälpa till att hantera ditt barnbarns sysslor.",
+    "joinP2": "Du kan ansluta till flera olika grupper/familjer.",
+    "joinAlt": "Anslut till en befintlig grupp eller familj med e-post och pinkod",
+    "deviceTitle": "3. Logga in på en familj som bara skapats på den här enheten",
+    "deviceP1": "Om du tidigare har skapat en familj som bara sparas på den här enheten kan du logga in på den familjen.",
+    "deviceP2": "Vi rekommenderar ändå “Flera enheter”, eftersom det alternativet är mer flexibelt och inte beror på en enda enhet.",
+    "deviceAlt": "Logga in på en familj som bara sparas på den här enheten",
+    "contact": "Om du har fler frågor kan du kontakta oss:"
+  },
+  "deleteAccount": {
+    "title": "Ta bort ditt Tareitas-konto",
+    "titleWithFamily": "Ta bort din Tareitas-grupp/familj {familyName}",
+    "lead": "Ange e-postadressen som är kopplad till ditt Tareitas-konto och pinkoden.",
+    "email": "E-post",
+    "pin": "Pinkod",
+    "sendCode": "Skicka verifieringskod",
+    "enterCode": "Ange verifieringskod",
+    "codeSent": "Vi har skickat en verifieringskod till {email}.",
+    "back": "Tillbaka",
+    "verify": "Verifiera och fortsätt",
+    "confirmTitle": "Ta bort ditt Tareitas-konto?",
+    "warning": "Detta raderar permanent ditt Tareitas-konto och dina data (alla barn, föräldrar, administratör, tillhörande bilder, användare, uppgifter, belöningar), inklusive barnprofiler, sysslor, belöningar, bilder och historik.",
+    "cannotUndo": "Den här åtgärden går inte att ångra.",
+    "cancel": "Avbryt",
+    "delete": "Ta bort mitt konto",
+    "completeTitle": "Borttagning av konto begärd",
+    "completeBody": "Ditt Tareitas-konto och tillhörande data har tagits bort."
+  },
+  "language": {
+    "title": "Språk",
+    "close": "Stäng"
+  }
+}

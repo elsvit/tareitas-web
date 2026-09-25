@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 
+import { interpolate, useUi } from '~/assets/translation';
 import { Button, OTPInput, TextInput } from '~/components/ui';
 import { useAppDispatch, useAppSelector } from '~/store/hooks';
 import {
@@ -27,6 +28,8 @@ const isValidEmail = (value: string) =>
   /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(value.trim());
 
 const DeleteAccount = () => {
+  const { ui } = useUi();
+  const copy = ui.deleteAccount;
   const dispatch = useAppDispatch();
   const step = useAppSelector(selectDeleteAccountStep);
   const email = useAppSelector(selectDeleteAccountEmail);
@@ -92,22 +95,19 @@ const DeleteAccount = () => {
   };
 
   const familyTitle = familyName
-    ? `Delete your Tareitas group/family ${familyName}`
-    : 'Delete your Tareitas account';
+    ? interpolate(copy.titleWithFamily, { familyName })
+    : copy.title;
 
   return (
     <div className="delete-account-page">
       {step === 'credentials' ? (
         <>
           <h1>{familyTitle}</h1>
-          <p className="delete-account-page__lead">
-            Enter the email address associated with your Tareitas account
-            and pin code.
-          </p>
+          <p className="delete-account-page__lead">{copy.lead}</p>
 
           <div className="delete-account-page__form">
             <TextInput
-              label="Email"
+              label={copy.email}
               type="email"
               value={emailInput}
               onChange={setEmailInput}
@@ -116,7 +116,7 @@ const DeleteAccount = () => {
             />
 
             <div className="delete-account-page__pin">
-              <span className="delete-account-page__pin-label">PIN code</span>
+              <span className="delete-account-page__pin-label">{copy.pin}</span>
               <OTPInput
                 length={4}
                 value={pin}
@@ -142,7 +142,7 @@ const DeleteAccount = () => {
                 }
                 onClick={handleSendVerificationCode}
               >
-                Send verification code
+                {copy.sendCode}
               </Button>
             </div>
           </div>
@@ -152,11 +152,9 @@ const DeleteAccount = () => {
       {step === 'verify' ? (
         <>
           <h1>{familyTitle}</h1>
-          <p className="delete-account-page__lead">
-            Enter verification code
-          </p>
+          <p className="delete-account-page__lead">{copy.enterCode}</p>
           <p className="delete-account-page__info">
-            We sent a verification code to {email}.
+            {interpolate(copy.codeSent, { email })}
           </p>
 
           <div className="delete-account-page__form">
@@ -180,7 +178,7 @@ const DeleteAccount = () => {
                 disabled={verifyLoading}
                 onClick={handleBackToCredentials}
               >
-                Back
+                {copy.back}
               </Button>
               <Button
                 variant="primary"
@@ -188,7 +186,7 @@ const DeleteAccount = () => {
                 disabled={verifyLoading || verificationCode.length !== 6}
                 onClick={handleVerifyCode}
               >
-                Verify and continue
+                {copy.verify}
               </Button>
             </div>
           </div>
@@ -197,16 +195,11 @@ const DeleteAccount = () => {
 
       {step === 'confirm' ? (
         <>
-          <h1>Delete your Tareitas account?</h1>
+          <h1>{copy.confirmTitle}</h1>
           <div className="delete-account-page__warning">
+            <p>{copy.warning}</p>
             <p>
-              This will permanently delete your Tareitas account and data
-              (all children, parents, admin, associated images, users, tasks,
-              rewards), including your child profiles, chores, rewards, images,
-              and completion history.
-            </p>
-            <p>
-              <strong>This action cannot be undone.</strong>
+              <strong>{copy.cannotUndo}</strong>
             </p>
           </div>
 
@@ -222,7 +215,7 @@ const DeleteAccount = () => {
               disabled={confirmLoading}
               onClick={handleCancel}
             >
-              Cancel
+              {copy.cancel}
             </Button>
             <Button
               variant="danger"
@@ -230,7 +223,7 @@ const DeleteAccount = () => {
               disabled={confirmLoading}
               onClick={handleConfirmDeletion}
             >
-              Delete my account
+              {copy.delete}
             </Button>
           </div>
         </>
@@ -238,11 +231,9 @@ const DeleteAccount = () => {
 
       {step === 'complete' ? (
         <>
-          <h1>Account deletion requested</h1>
+          <h1>{copy.completeTitle}</h1>
           <div className="delete-account-page__success">
-            <p>
-              Your Tareitas account and associated data have been deleted.
-            </p>
+            <p>{copy.completeBody}</p>
           </div>
         </>
       ) : null}

@@ -1,0 +1,58 @@
+{
+  "nav": {
+    "helpCenter": "Help Center",
+    "privacyPolicy": "Privacy Policy",
+    "deleteAccount": "Delete Account",
+    "menu": "Menu"
+  },
+  "home": {
+    "lead": "A family app to manage daily tasks, routines, stars, and rewards."
+  },
+  "helpCenter": {
+    "title": "Help Center",
+    "lead": "Choose a topic to learn how to use Tareitas.",
+    "loginSignup": "Login / Signup description"
+  },
+  "loginSignup": {
+    "title": "Login / Signup description",
+    "initialAlt": "LogIn / SignUp screen with the three setup options",
+    "threeOptions": "On the LogIn / SignUp screen, you have three options:",
+    "createTitle": "1. Create a new group/family",
+    "createP1": "This option is at the bottom of the LogIn / SignUp screen.",
+    "createP2": "We recommend selecting “Different devices” and tapping Next.",
+    "createP3": "Then, as the Admin, enter your email address and a 4-digit PIN. For the child, enter a login name (for example, childname1). The login name must be unique.",
+    "createAlt": "Create a new group or family on the LogIn / SignUp screen, with Several devices selected",
+    "joinTitle": "2. Log in to (connect to) an existing group/family",
+    "joinP1": "For example, you are a grandmother and your daughter asks you to help manage your grandchild’s chores.",
+    "joinP2": "You can connect to multiple different groups/families.",
+    "joinAlt": "Connect to an existing group or family with email and PIN",
+    "deviceTitle": "3. Log in to a family created only on this device",
+    "deviceP1": "If you previously created a family that is stored only on this device, you can log in to that family.",
+    "deviceP2": "However, we recommend selecting “Different devices”, as this option is more flexible and does not depend on a single device.",
+    "deviceAlt": "Log in to a family stored only on this device",
+    "contact": "If you have any additional questions, please contact us:"
+  },
+  "deleteAccount": {
+    "title": "Delete your Tareitas account",
+    "titleWithFamily": "Delete your Tareitas group/family {familyName}",
+    "lead": "Enter the email address associated with your Tareitas account and pin code.",
+    "email": "Email",
+    "pin": "PIN code",
+    "sendCode": "Send verification code",
+    "enterCode": "Enter verification code",
+    "codeSent": "We sent a verification code to {email}.",
+    "back": "Back",
+    "verify": "Verify and continue",
+    "confirmTitle": "Delete your Tareitas account?",
+    "warning": "This will permanently delete your Tareitas account and data (all children, parents, admin, associated images, users, tasks, rewards), including your child profiles, chores, rewards, images, and completion history.",
+    "cannotUndo": "This action cannot be undone.",
+    "cancel": "Cancel",
+    "delete": "Delete my account",
+    "completeTitle": "Account deletion requested",
+    "completeBody": "Your Tareitas account and associated data have been deleted."
+  },
+  "language": {
+    "title": "Language",
+    "close": "Close"
+  }
+}

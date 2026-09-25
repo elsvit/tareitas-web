@@ -1,0 +1,58 @@
+{
+  "nav": {
+    "helpCenter": "Ohjekeskus",
+    "privacyPolicy": "Tietosuojakäytäntö",
+    "deleteAccount": "Poista tili",
+    "menu": "Valikko"
+  },
+  "home": {
+    "lead": "Perhesovellus päivittäisten tehtävien, rutiinien, tähtien ja palkintojen hallintaan."
+  },
+  "helpCenter": {
+    "title": "Ohjekeskus",
+    "lead": "Valitse aihe ja opi käyttämään Tareitas-sovellusta.",
+    "loginSignup": "Kirjautumisen / rekisteröitymisen kuvaus"
+  },
+  "loginSignup": {
+    "title": "Kirjautumisen / rekisteröitymisen kuvaus",
+    "initialAlt": "Kirjautuminen / Rekisteröityminen -näyttö kolmella asetusvaihtoehdolla",
+    "threeOptions": "Kirjautuminen / Rekisteröityminen -näytössä on kolme vaihtoehtoa:",
+    "createTitle": "1. Luo uusi ryhmä/perhe",
+    "createP1": "Tämä vaihtoehto on Kirjautuminen / Rekisteröityminen -näytön alareunassa.",
+    "createP2": "Suosittelemme valitsemaan “Useita laitteita” ja napauttamaan Seuraava.",
+    "createP3": "Anna sen jälkeen ylläpitäjänä sähköpostiosoitteesi ja 4-numeroinen PIN-koodi. Lapselle anna kirjautumisnimi (esimerkiksi lapsennimi1). Kirjautumisnimen on oltava yksilöllinen.",
+    "createAlt": "Uuden ryhmän tai perheen luominen Kirjautuminen / Rekisteröityminen -näytössä, Useita laitteita valittuna",
+    "joinTitle": "2. Kirjaudu (yhdistä) olemassa olevaan ryhmään/perheeseen",
+    "joinP1": "Olet esimerkiksi isoäiti, ja tyttäresi pyytää sinua auttamaan lapsenlapsesi tehtävien hallinnassa.",
+    "joinP2": "Voit yhdistää useisiin eri ryhmiin/perheisiin.",
+    "joinAlt": "Yhdistäminen olemassa olevaan ryhmään tai perheeseen sähköpostilla ja PIN-koodilla",
+    "deviceTitle": "3. Kirjaudu perheeseen, joka on luotu vain tälle laitteelle",
+    "deviceP1": "Jos loit aiemmin perheen, joka on tallennettu vain tälle laitteelle, voit kirjautua siihen perheeseen.",
+    "deviceP2": "Suosittelemme silti “Useita laitteita”, koska tämä vaihtoehto on joustavampi eikä riipu yhdestä laitteesta.",
+    "deviceAlt": "Kirjautuminen perheeseen, joka on tallennettu vain tälle laitteelle",
+    "contact": "Jos sinulla on lisäkysymyksiä, ota meihin yhteyttä:"
+  },
+  "deleteAccount": {
+    "title": "Poista Tareitas-tilisi",
+    "titleWithFamily": "Poista Tareitas-ryhmäsi/perheesi {familyName}",
+    "lead": "Anna Tareitas-tiliisi liittyvä sähköpostiosoite ja PIN-koodi.",
+    "email": "Sähköposti",
+    "pin": "PIN-koodi",
+    "sendCode": "Lähetä vahvistuskoodi",
+    "enterCode": "Anna vahvistuskoodi",
+    "codeSent": "Lähetimme vahvistuskoodin osoitteeseen {email}.",
+    "back": "Takaisin",
+    "verify": "Vahvista ja jatka",
+    "confirmTitle": "Poistetaanko Tareitas-tilisi?",
+    "warning": "Tämä poistaa Tareitas-tilisi ja tietosi pysyvästi (kaikki lapset, vanhemmat, ylläpitäjä, liittyvät kuvat, käyttäjät, tehtävät, palkinnot), mukaan lukien lasten profiilit, tehtävät, palkinnot, kuvat ja historia.",
+    "cannotUndo": "Tätä toimintoa ei voi kumota.",
+    "cancel": "Peruuta",
+    "delete": "Poista tilini",
+    "completeTitle": "Tilin poistoa pyydetty",
+    "completeBody": "Tareitas-tilisi ja siihen liittyvät tiedot on poistettu."
+  },
+  "language": {
+    "title": "Kieli",
+    "close": "Sulje"
+  }
+}

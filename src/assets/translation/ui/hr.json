@@ -1,0 +1,58 @@
+{
+  "nav": {
+    "helpCenter": "Centar za pomoć",
+    "privacyPolicy": "Pravila privatnosti",
+    "deleteAccount": "Izbriši račun",
+    "menu": "Izbornik"
+  },
+  "home": {
+    "lead": "Obiteljska aplikacija za upravljanje dnevnim zadacima, rutinama, zvjezdicama i nagradama."
+  },
+  "helpCenter": {
+    "title": "Centar za pomoć",
+    "lead": "Odaberite temu i naučite kako koristiti Tareitas.",
+    "loginSignup": "Opis prijave / registracije"
+  },
+  "loginSignup": {
+    "title": "Opis prijave / registracije",
+    "initialAlt": "Zaslon Prijava / Registracija s tri opcije postavljanja",
+    "threeOptions": "Na zaslonu Prijava / Registracija imate tri opcije:",
+    "createTitle": "1. Stvorite novu grupu/obitelj",
+    "createP1": "Ova je opcija na dnu zaslona Prijava / Registracija.",
+    "createP2": "Preporučujemo da odaberete “Više uređaja” i dodirnete Dalje.",
+    "createP3": "Zatim kao administrator unesite e-mail adresu i 4-znamenkasti PIN. Za dijete unesite ime za prijavu (na primjer, imedjeteta1). Ime za prijavu mora biti jedinstveno.",
+    "createAlt": "Stvaranje nove grupe ili obitelji na zaslonu Prijava / Registracija, s odabranom opcijom Više uređaja",
+    "joinTitle": "2. Prijavite se (povežite se) na postojeću grupu/obitelj",
+    "joinP1": "Na primjer, vi ste baka i kći vas moli da pomognete upravljati zadacima unuka.",
+    "joinP2": "Možete se povezati s više različitih grupa/obitelji.",
+    "joinAlt": "Povezivanje s postojećom grupom ili obitelji putem e-maila i PIN-a",
+    "deviceTitle": "3. Prijavite se u obitelj stvorenu samo na ovom uređaju",
+    "deviceP1": "Ako ste prethodno stvorili obitelj koja se pohranjuje samo na ovom uređaju, možete se prijaviti u tu obitelj.",
+    "deviceP2": "Ipak preporučujemo “Više uređaja” jer je ta opcija fleksibilnija i ne ovisi o jednom uređaju.",
+    "deviceAlt": "Prijava u obitelj pohranjenu samo na ovom uređaju",
+    "contact": "Ako imate dodatnih pitanja, kontaktirajte nas:"
+  },
+  "deleteAccount": {
+    "title": "Izbrišite svoj Tareitas račun",
+    "titleWithFamily": "Izbrišite svoju Tareitas grupu/obitelj {familyName}",
+    "lead": "Unesite e-mail adresu povezanu s vašim Tareitas računom i PIN kod.",
+    "email": "E-mail",
+    "pin": "PIN kod",
+    "sendCode": "Pošalji kod za potvrdu",
+    "enterCode": "Unesite kod za potvrdu",
+    "codeSent": "Poslali smo kod za potvrdu na {email}.",
+    "back": "Natrag",
+    "verify": "Potvrdi i nastavi",
+    "confirmTitle": "Izbrisati Tareitas račun?",
+    "warning": "Time ćete trajno izbrisati Tareitas račun i podatke (svu djecu, roditelje, administratora, povezane slike, korisnike, zadatke, nagrade), uključujući profile djece, zadatke, nagrade, slike i povijest.",
+    "cannotUndo": "Ova se radnja ne može poništiti.",
+    "cancel": "Odustani",
+    "delete": "Izbriši moj račun",
+    "completeTitle": "Zatraženo brisanje računa",
+    "completeBody": "Vaš Tareitas račun i povezani podaci izbrisani su."
+  },
+  "language": {
+    "title": "Jezik",
+    "close": "Zatvori"
+  }
+}

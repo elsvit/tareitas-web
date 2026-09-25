@@ -1,0 +1,58 @@
+{
+  "nav": {
+    "helpCenter": "Pagalbos centras",
+    "privacyPolicy": "Privatumo politika",
+    "deleteAccount": "Ištrinti paskyrą",
+    "menu": "Meniu"
+  },
+  "home": {
+    "lead": "Šeimos programa kasdienėms užduotims, rutinoms, žvaigždutėms ir atlygiams valdyti."
+  },
+  "helpCenter": {
+    "title": "Pagalbos centras",
+    "lead": "Pasirinkite temą ir sužinokite, kaip naudotis Tareitas.",
+    "loginSignup": "Prisijungimo / registracijos aprašymas"
+  },
+  "loginSignup": {
+    "title": "Prisijungimo / registracijos aprašymas",
+    "initialAlt": "Prisijungimo / registracijos ekranas su trimis nustatymo parinktimis",
+    "threeOptions": "Prisijungimo / registracijos ekrane turite tris parinktis:",
+    "createTitle": "1. Sukurti naują grupę / šeimą",
+    "createP1": "Ši parinktis yra prisijungimo / registracijos ekrano apačioje.",
+    "createP2": "Rekomenduojame pasirinkti „Keli įrenginiai“ ir bakstelėti Pirmyn.",
+    "createP3": "Tada kaip administratorius įveskite el. pašto adresą ir 4 skaitmenų PIN. Vaikui įveskite prisijungimo vardą (pavyzdžiui, vaikovardas1). Prisijungimo vardas turi būti unikalus.",
+    "createAlt": "Naujos grupės ar šeimos kūrimas prisijungimo / registracijos ekrane, pasirinkus Keli įrenginiai",
+    "joinTitle": "2. Prisijungti prie esamos grupės / šeimos",
+    "joinP1": "Pavyzdžiui, esate močiutė ir dukra prašo padėti valdyti anūko darbus.",
+    "joinP2": "Galite prisijungti prie kelių skirtingų grupių / šeimų.",
+    "joinAlt": "Prisijungimas prie esamos grupės ar šeimos naudojant el. paštą ir PIN",
+    "deviceTitle": "3. Prisijungti prie šeimos, sukurtos tik šiame įrenginyje",
+    "deviceP1": "Jei anksčiau sukūrėte šeimą, kuri saugoma tik šiame įrenginyje, galite prie jos prisijungti.",
+    "deviceP2": "Vis dėlto rekomenduojame „Keli įrenginiai“, nes ši parinktis lankstesnė ir nepriklauso nuo vieno įrenginio.",
+    "deviceAlt": "Prisijungimas prie šeimos, saugomos tik šiame įrenginyje",
+    "contact": "Jei turite daugiau klausimų, susisiekite su mumis:"
+  },
+  "deleteAccount": {
+    "title": "Ištrinti Tareitas paskyrą",
+    "titleWithFamily": "Ištrinti Tareitas grupę / šeimą {familyName}",
+    "lead": "Įveskite su Tareitas paskyra susietą el. paštą ir PIN kodą.",
+    "email": "El. paštas",
+    "pin": "PIN kodas",
+    "sendCode": "Siųsti patvirtinimo kodą",
+    "enterCode": "Įveskite patvirtinimo kodą",
+    "codeSent": "Patvirtinimo kodą išsiuntėme adresu {email}.",
+    "back": "Atgal",
+    "verify": "Patvirtinti ir tęsti",
+    "confirmTitle": "Ištrinti Tareitas paskyrą?",
+    "warning": "Tai visam laikui ištrins jūsų Tareitas paskyrą ir duomenis (visus vaikus, tėvus, administratorių, susijusius vaizdus, naudotojus, užduotis, atlygius), įskaitant vaikų profilius, darbus, atlygius, vaizdus ir istoriją.",
+    "cannotUndo": "Šio veiksmo anuliuoti negalima.",
+    "cancel": "Atšaukti",
+    "delete": "Ištrinti mano paskyrą",
+    "completeTitle": "Paskyros ištrynimas užklaustas",
+    "completeBody": "Jūsų Tareitas paskyra ir susiję duomenys ištrinti."
+  },
+  "language": {
+    "title": "Kalba",
+    "close": "Uždaryti"
+  }
+}

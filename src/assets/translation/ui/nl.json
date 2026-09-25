@@ -1,0 +1,58 @@
+{
+  "nav": {
+    "helpCenter": "Helpcentrum",
+    "privacyPolicy": "Privacyverklaring",
+    "deleteAccount": "Account verwijderen",
+    "menu": "Menu"
+  },
+  "home": {
+    "lead": "Een familie-app om dagelijkse taken, routines, sterren en beloningen te beheren."
+  },
+  "helpCenter": {
+    "title": "Helpcentrum",
+    "lead": "Kies een onderwerp om te leren hoe je Tareitas gebruikt.",
+    "loginSignup": "Beschrijving van inloggen / registreren"
+  },
+  "loginSignup": {
+    "title": "Beschrijving van inloggen / registreren",
+    "initialAlt": "Inlog- / Registratiescherm met de drie instelopties",
+    "threeOptions": "Op het Inlog- / Registratiescherm heb je drie opties:",
+    "createTitle": "1. Een nieuwe groep/familie maken",
+    "createP1": "Deze optie staat onderaan het Inlog- / Registratiescherm.",
+    "createP2": "We raden aan “Meerdere apparaten” te selecteren en op Volgende te tikken.",
+    "createP3": "Voer daarna als beheerder je e-mailadres en een 4-cijferige pincode in. Voor het kind voer je een inlognaam in (bijvoorbeeld kindnaam1). De inlognaam moet uniek zijn.",
+    "createAlt": "Een nieuwe groep of familie maken op het Inlog- / Registratiescherm, met Meerdere apparaten geselecteerd",
+    "joinTitle": "2. Inloggen op (verbinding maken met) een bestaande groep/familie",
+    "joinP1": "Je bent bijvoorbeeld de oma en je dochter vraagt je te helpen met de klusjes van je kleinkind.",
+    "joinP2": "Je kunt verbinding maken met meerdere verschillende groepen/families.",
+    "joinAlt": "Verbinding maken met een bestaande groep of familie met e-mail en pincode",
+    "deviceTitle": "3. Inloggen op een familie die alleen op dit apparaat is gemaakt",
+    "deviceP1": "Als je eerder een familie hebt gemaakt die alleen op dit apparaat is opgeslagen, kun je op die familie inloggen.",
+    "deviceP2": "We raden echter “Meerdere apparaten” aan, omdat deze optie flexibeler is en niet van één apparaat afhangt.",
+    "deviceAlt": "Inloggen op een familie die alleen op dit apparaat is opgeslagen",
+    "contact": "Als je nog vragen hebt, neem dan contact met ons op:"
+  },
+  "deleteAccount": {
+    "title": "Je Tareitas-account verwijderen",
+    "titleWithFamily": "Je Tareitas-groep/familie {familyName} verwijderen",
+    "lead": "Voer het e-mailadres van je Tareitas-account en de pincode in.",
+    "email": "E-mail",
+    "pin": "Pincode",
+    "sendCode": "Verificatiecode versturen",
+    "enterCode": "Voer de verificatiecode in",
+    "codeSent": "We hebben een verificatiecode gestuurd naar {email}.",
+    "back": "Terug",
+    "verify": "Verifiëren en doorgaan",
+    "confirmTitle": "Je Tareitas-account verwijderen?",
+    "warning": "Hiermee worden je Tareitas-account en gegevens permanent verwijderd (alle kinderen, ouders, beheerder, bijbehorende afbeeldingen, gebruikers, taken, beloningen), inclusief kindprofielen, klusjes, beloningen, afbeeldingen en geschiedenis.",
+    "cannotUndo": "Deze actie kan niet ongedaan worden gemaakt.",
+    "cancel": "Annuleren",
+    "delete": "Mijn account verwijderen",
+    "completeTitle": "Verwijdering van account aangevraagd",
+    "completeBody": "Je Tareitas-account en bijbehorende gegevens zijn verwijderd."
+  },
+  "language": {
+    "title": "Taal",
+    "close": "Sluiten"
+  }
+}

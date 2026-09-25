@@ -1,0 +1,58 @@
+{
+  "nav": {
+    "helpCenter": "Abikeskus",
+    "privacyPolicy": "Privaatsuspoliitika",
+    "deleteAccount": "Kustuta konto",
+    "menu": "Menüü"
+  },
+  "home": {
+    "lead": "Pereäpp igapäevaste ülesannete, rutiinide, tähtede ja preemiate haldamiseks."
+  },
+  "helpCenter": {
+    "title": "Abikeskus",
+    "lead": "Valige teema ja õppige Tareitast kasutama.",
+    "loginSignup": "Sisselogimise / registreerimise kirjeldus"
+  },
+  "loginSignup": {
+    "title": "Sisselogimise / registreerimise kirjeldus",
+    "initialAlt": "Sisselogimise / registreerimise ekraan kolme seadistusvalikuga",
+    "threeOptions": "Sisselogimise / registreerimise ekraanil on kolm valikut:",
+    "createTitle": "1. Loo uus grupp/perekond",
+    "createP1": "See valik asub sisselogimise / registreerimise ekraani allosas.",
+    "createP2": "Soovitame valida „Mitu seadet” ja puudutada nuppu Edasi.",
+    "createP3": "Seejärel sisestage administraatorina oma e-posti aadress ja 4-kohaline PIN-kood. Lapsele sisestage sisselogimisnimi (näiteks lapsenimi1). Sisselogimisnimi peab olema unikaalne.",
+    "createAlt": "Uue grupi või perekonna loomine sisselogimise / registreerimise ekraanil, valitud on Mitu seadet",
+    "joinTitle": "2. Logi sisse (loo ühendus) olemasoleva grupi/perekonnaga",
+    "joinP1": "Näiteks olete vanaema ja teie tütar palub aidata lapselapse ülesandeid hallata.",
+    "joinP2": "Saate ühenduda mitme erineva grupi/perekonnaga.",
+    "joinAlt": "Ühenduse loomine olemasoleva grupi või perekonnaga e-posti ja PIN-koodiga",
+    "deviceTitle": "3. Logi sisse peresse, mis on loodud ainult selles seadmes",
+    "deviceP1": "Kui lõite varem pere, mis on salvestatud ainult selles seadmes, saate sellesse peresse sisse logida.",
+    "deviceP2": "Siiski soovitame „Mitu seadet”, sest see valik on paindlikum ega sõltu ühest seadmest.",
+    "deviceAlt": "Sisselogimine peresse, mis on salvestatud ainult selles seadmes",
+    "contact": "Kui teil on lisaküsimusi, võtke meiega ühendust:"
+  },
+  "deleteAccount": {
+    "title": "Kustuta oma Tareitase konto",
+    "titleWithFamily": "Kustuta oma Tareitase grupp/perekond {familyName}",
+    "lead": "Sisestage Tareitase kontoga seotud e-posti aadress ja PIN-kood.",
+    "email": "E-post",
+    "pin": "PIN-kood",
+    "sendCode": "Saada kinnituskood",
+    "enterCode": "Sisestage kinnituskood",
+    "codeSent": "Saatsime kinnituskoodi aadressile {email}.",
+    "back": "Tagasi",
+    "verify": "Kinnita ja jätka",
+    "confirmTitle": "Kas kustutada Tareitase konto?",
+    "warning": "See kustutab jäädavalt teie Tareitase konto ja andmed (kõik lapsed, vanemad, administraator, seotud pildid, kasutajad, ülesanded, preemiad), sealhulgas laste profiilid, ülesanded, preemiad, pildid ja ajaloo.",
+    "cannotUndo": "Seda toimingut ei saa tagasi võtta.",
+    "cancel": "Tühista",
+    "delete": "Kustuta minu konto",
+    "completeTitle": "Konto kustutamine on taotletud",
+    "completeBody": "Teie Tareitase konto ja seotud andmed on kustutatud."
+  },
+  "language": {
+    "title": "Keel",
+    "close": "Sulge"
+  }
+}

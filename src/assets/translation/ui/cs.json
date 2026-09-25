@@ -1,0 +1,58 @@
+{
+  "nav": {
+    "helpCenter": "Centrum nápovědy",
+    "privacyPolicy": "Zásady ochrany osobních údajů",
+    "deleteAccount": "Smazat účet",
+    "menu": "Menu"
+  },
+  "home": {
+    "lead": "Rodinná aplikace pro správu denních úkolů, rutin, hvězdiček a odměn."
+  },
+  "helpCenter": {
+    "title": "Centrum nápovědy",
+    "lead": "Vyberte téma a naučte se používat Tareitas.",
+    "loginSignup": "Popis přihlášení / registrace"
+  },
+  "loginSignup": {
+    "title": "Popis přihlášení / registrace",
+    "initialAlt": "Obrazovka Přihlášení / Registrace se třemi možnostmi nastavení",
+    "threeOptions": "Na obrazovce Přihlášení / Registrace máte tři možnosti:",
+    "createTitle": "1. Vytvořit novou skupinu/rodinu",
+    "createP1": "Tato možnost je ve spodní části obrazovky Přihlášení / Registrace.",
+    "createP2": "Doporučujeme vybrat „Více zařízení“ a klepnout na Další.",
+    "createP3": "Poté jako správce zadejte e-mail a 4místný PIN. Pro dítě zadejte přihlašovací jméno (například jmenodite1). Přihlašovací jméno musí být jedinečné.",
+    "createAlt": "Vytvoření nové skupiny nebo rodiny na obrazovce Přihlášení / Registrace s vybranou možností Více zařízení",
+    "joinTitle": "2. Přihlásit se (připojit) k existující skupině/rodině",
+    "joinP1": "Například jste babička a dcera vás požádá, abyste pomohla spravovat úkoly vnoučete.",
+    "joinP2": "Můžete se připojit k více různým skupinám/rodinám.",
+    "joinAlt": "Připojení k existující skupině nebo rodině pomocí e-mailu a PIN",
+    "deviceTitle": "3. Přihlásit se k rodině vytvořené jen na tomto zařízení",
+    "deviceP1": "Pokud jste dříve vytvořili rodinu uloženou jen na tomto zařízení, můžete se k ní přihlásit.",
+    "deviceP2": "Doporučujeme však „Více zařízení“, protože tato možnost je flexibilnější a nezávisí na jednom zařízení.",
+    "deviceAlt": "Přihlášení k rodině uložené jen na tomto zařízení",
+    "contact": "Máte-li další otázky, kontaktujte nás:"
+  },
+  "deleteAccount": {
+    "title": "Smazat účet Tareitas",
+    "titleWithFamily": "Smazat skupinu/rodinu Tareitas {familyName}",
+    "lead": "Zadejte e-mail spojený s účtem Tareitas a kód PIN.",
+    "email": "E-mail",
+    "pin": "Kód PIN",
+    "sendCode": "Odeslat ověřovací kód",
+    "enterCode": "Zadejte ověřovací kód",
+    "codeSent": "Ověřovací kód jsme odeslali na {email}.",
+    "back": "Zpět",
+    "verify": "Ověřit a pokračovat",
+    "confirmTitle": "Smazat účet Tareitas?",
+    "warning": "Tím trvale smažete účet Tareitas a data (všechny děti, rodiče, správce, související obrázky, uživatele, úkoly, odměny), včetně profilů dětí, úkolů, odměn, obrázků a historie.",
+    "cannotUndo": "Tuto akci nelze vrátit zpět.",
+    "cancel": "Zrušit",
+    "delete": "Smazat můj účet",
+    "completeTitle": "Bylo požádáno o smazání účtu",
+    "completeBody": "Váš účet Tareitas a související data byla smazána."
+  },
+  "language": {
+    "title": "Jazyk",
+    "close": "Zavřít"
+  }
+}
