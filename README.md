@@ -42,6 +42,7 @@ Output: `dist/`
 |------|------|
 | `/` | Home |
 | `/help-center` | Help Center |
+| `/help-center/login-signup` | Login / Signup description |
 | `/privacy-policy` | Privacy Policy |
 | `/delete-account` | Delete account |
 
