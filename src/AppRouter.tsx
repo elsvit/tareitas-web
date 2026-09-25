@@ -9,6 +9,7 @@ import { SiteLayout } from '~/components/blocks';
 import {
   DeleteAccountPage,
   HelpCenterPage,
+  HelpLoginSignupPage,
   HomePage,
   PrivacyPolicyPage,
 } from '~/components/pages';
@@ -28,6 +29,10 @@ const AppRouter = () => (
           element={<DeleteAccountPage />}
         />
         <Route path={ROUTES.HELP_CENTER} element={<HelpCenterPage />} />
+        <Route
+          path={ROUTES.HELP_CENTER_LOGIN_SIGNUP}
+          element={<HelpLoginSignupPage />}
+        />
         <Route path="*" element={<Navigate to={ROUTES.HOME} replace />} />
       </Routes>
     </SiteLayout>
