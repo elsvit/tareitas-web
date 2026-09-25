@@ -17,6 +17,7 @@ export const SiteLayout = ({ children }: Props) => (
           Tareitas
         </Link>
         <nav className="site-layout__nav">
+          <Link to={ROUTES.HELP_CENTER}>Help Center</Link>
           <Link to={ROUTES.PRIVACY_POLICY}>Privacy Policy</Link>
           <Link to={ROUTES.DELETE_ACCOUNT}>Delete Account</Link>
         </nav>
@@ -31,6 +32,7 @@ export const SiteLayout = ({ children }: Props) => (
       <div className="site-layout__inner">
         <span>© {new Date().getFullYear()} Tareitas</span>
         <div className="site-layout__footer-links">
+          <Link to={ROUTES.HELP_CENTER}>Help Center</Link>
           <Link to={ROUTES.PRIVACY_POLICY}>Privacy Policy</Link>
           <Link to={ROUTES.DELETE_ACCOUNT}>Delete Account</Link>
         </div>
