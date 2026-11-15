@@ -62,7 +62,7 @@ Configure nginx (example):
 
 ```nginx
 server {
-  server_name tareitas.net www.tareitas.net tareitas.com www.tareitas.com;
+  server_name tareitas.net www.tareitas.net;
   root /var/www/tareitas-web/dist;
   index index.html;
 
